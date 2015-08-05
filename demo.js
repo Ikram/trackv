@@ -259,7 +259,7 @@ $(function(){
           n.addClass('filtered');
         };
         
-        if( type === 'Cheese' ){
+        if( type === 'Tracker' ){
           
           var cType = n.data('Type');
           
