@@ -35,8 +35,8 @@ edge[interaction = "cc"] {
 	width: 4;
 }
  
-node[NodeType = "Cheese"],
-node[NodeType = "CheeseType"] {
+node[NodeType = "Tracker"],
+node[NodeType = "TrackerType"] {
 	background-color: #FACD37;
 	text-outline-color: #FACD37;
 	width: mapData(Quality, 70, 100, 20, 50);
