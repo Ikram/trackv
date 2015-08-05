@@ -114,9 +114,9 @@ $(function(){
       
       data.NodeTypeFormatted = data.NodeType;
       
-      if( data.NodeTypeFormatted === 'RedWine' ){
+      if( data.NodeTypeFormatted === 'TopRankWebsite' ){
         data.NodeTypeFormatted = 'Red Wine';
-      } else if( data.NodeTypeFormatted === 'WhiteWine' ){
+      } else if( data.NodeTypeFormatted === 'LowRankWebsite' ){
         data.NodeTypeFormatted = 'White Wine';
       }
       
@@ -273,11 +273,11 @@ $(function(){
             filter();
           }
           
-        } else if( type === 'RedWine' ){
+        } else if( type === 'TopRankWebsite' ){
           
           if( !red ){ filter(); }
           
-        } else if( type === 'WhiteWine' ){
+        } else if( type === 'LowRankWebsite' ){
           
           if( !white ){ filter(); }
           
