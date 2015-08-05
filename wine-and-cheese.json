@@ -1,14 +1,5 @@
-{
-  "format_version" : "1.0",
-  "generated_by" : "cytoscape-3.2.0",
-  "target_cytoscapejs_version" : "~2.1",
-  "data" : {
-    "selected" : true,
-    "__Annotations" : [ ],
-    "shared_name" : "WineCheeseNetwork",
-    "SUID" : 52,
-    "name" : "WineCheeseNetwork"
-  },
+{"format_version" : "1.0", "generated_by" : "cytoscape-3.2.0", "target_cytoscapejs_version" : "~2.1", "data" : {
+    "selected" : true, "__Annotations" : [ ], "shared_name" : "WineTrackerNetwork", "SUID" : 52, "name" : "WineTrackerNetwork" },
   "elements" : {
     "nodes" : [ {
       "data" : {
@@ -22,7 +13,7 @@
         "Quality" : 90,
         "Type" : "Semi-soft",
         "SUID" : 430,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Aarauer Bierdeckel",
         "Country" : "Switzerland",
         "shared_name" : "Aarauer Bierdeckel"
@@ -39,7 +30,7 @@
         "cytoscape_alias_list" : [ "Bergues" ],
         "canonicalName" : "Bergues",
         "SUID" : 429,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Bergues",
         "shared_name" : "Bergues"
       },
@@ -55,7 +46,7 @@
         "cytoscape_alias_list" : [ "Chimay" ],
         "canonicalName" : "Chimay",
         "SUID" : 428,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Chimay",
         "shared_name" : "Chimay"
       },
@@ -71,7 +62,7 @@
         "cytoscape_alias_list" : [ "Fiumorbu" ],
         "canonicalName" : "Fiumorbu",
         "SUID" : 427,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Fiumorbu",
         "shared_name" : "Fiumorbu"
       },
@@ -155,7 +146,7 @@
         "Quality" : 79,
         "Type" : "Semi-hard",
         "SUID" : 422,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Abbaye de Belloc",
         "Country" : "France",
         "shared_name" : "Abbaye de Belloc"
@@ -176,7 +167,7 @@
         "Quality" : 94,
         "Type" : "Semi-hard",
         "SUID" : 421,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Berkswell",
         "Country" : "England",
         "shared_name" : "Berkswell"
@@ -193,7 +184,7 @@
         "cytoscape_alias_list" : [ "Le Moulis" ],
         "canonicalName" : "Le Moulis",
         "SUID" : 420,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Le Moulis",
         "shared_name" : "Le Moulis"
       },
@@ -213,7 +204,7 @@
         "Quality" : 99,
         "Type" : "Hard",
         "SUID" : 419,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Google",
         "Country" : "England",
         "shared_name" : "Google"
@@ -234,7 +225,7 @@
         "Quality" : 98,
         "Type" : "Semi-soft",
         "SUID" : 418,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Vermont Shepherd",
         "Country" : "US",
         "shared_name" : "Vermont Shepherd"
@@ -255,7 +246,7 @@
         "Quality" : 90,
         "Type" : "Hard",
         "SUID" : 417,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Zamorano",
         "Country" : "Spain",
         "shared_name" : "Zamorano"
@@ -372,7 +363,7 @@
         "Quality" : 90,
         "Type" : "Semi-hard",
         "SUID" : 410,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Abondance",
         "Country" : "France",
         "shared_name" : "Abondance"
@@ -393,7 +384,7 @@
         "Quality" : 93,
         "Type" : "Hard",
         "SUID" : 409,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Beaufort",
         "Country" : "France",
         "shared_name" : "Beaufort"
@@ -410,7 +401,7 @@
         "cytoscape_alias_list" : [ "Comte" ],
         "canonicalName" : "Comte",
         "SUID" : 408,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Comte",
         "shared_name" : "Comte"
       },
@@ -430,7 +421,7 @@
         "Quality" : 95,
         "Type" : "Hard",
         "SUID" : 407,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Vacherin Fribourgeois",
         "Country" : "Switzerland",
         "shared_name" : "Vacherin Fribourgeois"
@@ -515,7 +506,7 @@
         "Quality" : 79,
         "Type" : "Semi-soft",
         "SUID" : 402,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Afuega'l Pitu",
         "Country" : "Spain",
         "shared_name" : "Afuega'l Pitu"
@@ -536,7 +527,7 @@
         "Quality" : 84,
         "Type" : "Hard",
         "SUID" : 401,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Queso de los Beyos",
         "Country" : "Spain",
         "shared_name" : "Queso de los Beyos"
@@ -669,7 +660,7 @@
         "Quality" : 78,
         "Type" : "Soft",
         "SUID" : 393,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Aisy Cendre",
         "Country" : "France",
         "shared_name" : "Aisy Cendre"
@@ -686,7 +677,7 @@
         "cytoscape_alias_list" : [ "Affidelice" ],
         "canonicalName" : "Affidelice",
         "SUID" : 392,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Affidelice",
         "shared_name" : "Affidelice"
       },
@@ -702,7 +693,7 @@
         "cytoscape_alias_list" : [ "Epoisses" ],
         "canonicalName" : "Epoisses",
         "SUID" : 391,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Epoisses",
         "shared_name" : "Epoisses"
       },
@@ -722,7 +713,7 @@
         "Quality" : 80,
         "Type" : "Soft",
         "SUID" : 390,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Soumaintrain",
         "Country" : "France",
         "shared_name" : "Soumaintrain"
@@ -791,7 +782,7 @@
         "Quality" : 97,
         "Type" : "Semi-hard",
         "SUID" : 386,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Appenzeller",
         "Country" : "Switzerland",
         "shared_name" : "Appenzeller"
@@ -812,7 +803,7 @@
         "Quality" : 97,
         "Type" : "Hard",
         "SUID" : 385,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Prattigauer",
         "Country" : "Switzerland",
         "shared_name" : "Prattigauer"
@@ -829,7 +820,7 @@
         "cytoscape_alias_list" : [ "Torgenburger" ],
         "canonicalName" : "Torgenburger",
         "SUID" : 384,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Torgenburger",
         "shared_name" : "Torgenburger"
       },
@@ -913,7 +904,7 @@
         "Quality" : 91,
         "Type" : "Soft",
         "SUID" : 379,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Ardrahan",
         "Country" : "Ireland",
         "shared_name" : "Ardrahan"
@@ -934,7 +925,7 @@
         "Quality" : 91,
         "Type" : "Semi-soft",
         "SUID" : 378,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Durrus",
         "Country" : "Ireland",
         "shared_name" : "Durrus"
@@ -955,7 +946,7 @@
         "Quality" : 83,
         "Type" : "Semi-soft",
         "SUID" : 377,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Gubbeen",
         "Country" : "Ireland",
         "shared_name" : "Gubbeen"
@@ -972,7 +963,7 @@
         "cytoscape_alias_list" : [ "Milleens" ],
         "canonicalName" : "Milleens",
         "SUID" : 376,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Milleens",
         "shared_name" : "Milleens"
       },
@@ -1072,7 +1063,7 @@
         "Quality" : 92,
         "Type" : "Soft",
         "SUID" : 370,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Azeitao",
         "Country" : "Portugal",
         "shared_name" : "Azeitao"
@@ -1093,7 +1084,7 @@
         "Quality" : 91,
         "Type" : "Soft",
         "SUID" : 369,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Queso de la Serena",
         "Country" : "Spain",
         "shared_name" : "Queso de la Serena"
@@ -1114,7 +1105,7 @@
         "Quality" : 93,
         "Type" : "Soft",
         "SUID" : 368,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Serpa",
         "Country" : "Spain",
         "shared_name" : "Serpa"
@@ -1135,7 +1126,7 @@
         "Quality" : 93,
         "Type" : "Soft",
         "SUID" : 367,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Serra da Estrela",
         "Country" : "Portugal",
         "shared_name" : "Serra da Estrela"
@@ -1156,7 +1147,7 @@
         "Quality" : 93,
         "Type" : "Soft",
         "SUID" : 366,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Torta del Casar",
         "Country" : "Spain",
         "shared_name" : "Torta del Casar"
@@ -1193,7 +1184,7 @@
         "Quality" : 81,
         "Type" : "Soft",
         "SUID" : 364,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Banon",
         "Country" : "France",
         "shared_name" : "Banon"
@@ -1214,7 +1205,7 @@
         "Quality" : 74,
         "Type" : "Semi-soft",
         "SUID" : 363,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Hoja Santa",
         "Country" : "US",
         "shared_name" : "Hoja Santa"
@@ -1295,7 +1286,7 @@
         "cytoscape_alias_list" : [ "Emmental" ],
         "canonicalName" : "Emmental",
         "SUID" : 358,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Emmental",
         "shared_name" : "Emmental"
       },
@@ -1315,7 +1306,7 @@
         "Quality" : 86,
         "Type" : "Semi-hard",
         "SUID" : 357,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Fontina d'Aosta",
         "Country" : "Italy",
         "shared_name" : "Fontina d'Aosta"
@@ -1336,7 +1327,7 @@
         "Quality" : 97,
         "Type" : "Hard",
         "SUID" : 356,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Gruyere",
         "Country" : "Switzerland",
         "shared_name" : "Gruyere"
@@ -1389,7 +1380,7 @@
         "Quality" : 92,
         "Type" : "Semi-soft",
         "SUID" : 353,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Beenleigh Blue",
         "Country" : "England",
         "shared_name" : "Beenleigh Blue"
@@ -1410,7 +1401,7 @@
         "Quality" : 90,
         "Type" : "Semi-soft",
         "SUID" : 352,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Harbourne Blue",
         "Country" : "England",
         "shared_name" : "Harbourne Blue"
@@ -1431,7 +1422,7 @@
         "Quality" : 98,
         "Type" : "Semi-soft",
         "SUID" : 351,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Roquefort",
         "Country" : "France",
         "shared_name" : "Roquefort"
@@ -1452,7 +1443,7 @@
         "Quality" : 91,
         "Type" : "Semi-soft",
         "SUID" : 350,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Berkshire Blue",
         "Country" : "US",
         "shared_name" : "Berkshire Blue"
@@ -1473,7 +1464,7 @@
         "Quality" : 84,
         "Type" : "Semi-soft",
         "SUID" : 349,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Cashel Blue",
         "Country" : "Ireland",
         "shared_name" : "Cashel Blue"
@@ -1494,7 +1485,7 @@
         "Quality" : 84,
         "Type" : "Semi-soft",
         "SUID" : 348,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Fourme d'Ambert",
         "Country" : "France",
         "shared_name" : "Fourme d'Ambert"
@@ -1515,7 +1506,7 @@
         "Quality" : 81,
         "Type" : "Hard",
         "SUID" : 347,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Pecorino Toscano",
         "Country" : "Italy",
         "shared_name" : "Pecorino Toscano"
@@ -1536,7 +1527,7 @@
         "Quality" : 80,
         "Type" : "Hard",
         "SUID" : 346,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Trade Lake Cedar",
         "Country" : "US",
         "shared_name" : "Trade Lake Cedar"
@@ -1605,7 +1596,7 @@
         "Quality" : 79,
         "Type" : "Soft",
         "SUID" : 342,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Big Holmes",
         "Country" : "US",
         "shared_name" : "Big Holmes"
@@ -1627,7 +1618,7 @@
         "Quality" : 80,
         "Type" : "Soft",
         "SUID" : 341,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Brin d'Amour",
         "Country" : "France",
         "shared_name" : "Brin d'Amour"
@@ -1644,7 +1635,7 @@
         "cytoscape_alias_list" : [ "Fleur du Maquis" ],
         "canonicalName" : "Fleur du Maquis",
         "SUID" : 340,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Fleur du Maquis",
         "shared_name" : "Fleur du Maquis"
       },
@@ -1696,7 +1687,7 @@
         "Quality" : 77,
         "Type" : "Semi-soft",
         "SUID" : 337,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Bleu D'Auvergne",
         "Country" : "France",
         "shared_name" : "Bleu D'Auvergne"
@@ -1713,7 +1704,7 @@
         "cytoscape_alias_list" : [ "Bleu de Laqueuille" ],
         "canonicalName" : "Bleu de Laqueuille",
         "SUID" : 336,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Bleu de Laqueuille",
         "shared_name" : "Bleu de Laqueuille"
       },
@@ -1733,7 +1724,7 @@
         "Quality" : 85,
         "Type" : "Semi-soft",
         "SUID" : 335,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Bleu des Causses",
         "Country" : "France",
         "shared_name" : "Bleu des Causses"
@@ -1750,7 +1741,7 @@
         "cytoscape_alias_list" : [ "Fourme de Montbrison" ],
         "canonicalName" : "Fourme de Montbrison",
         "SUID" : 334,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Fourme de Montbrison",
         "shared_name" : "Fourme de Montbrison"
       },
@@ -1786,7 +1777,7 @@
         "Quality" : 79,
         "Type" : "Semi-soft",
         "SUID" : 332,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Bleu de Gex",
         "Country" : "France",
         "shared_name" : "Bleu de Gex"
@@ -1807,7 +1798,7 @@
         "Quality" : 95,
         "Type" : "Semi-hard",
         "SUID" : 331,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Stilton",
         "Country" : "England",
         "shared_name" : "Stilton"
@@ -1828,7 +1819,7 @@
         "Quality" : 89,
         "Type" : "Semi-soft",
         "SUID" : 330,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Bleu de Termignon",
         "Country" : "France",
         "shared_name" : "Bleu de Termignon"
@@ -1845,7 +1836,7 @@
         "cytoscape_alias_list" : [ "Castelmagno" ],
         "canonicalName" : "Castelmagno",
         "SUID" : 329,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Castelmagno",
         "shared_name" : "Castelmagno"
       },
@@ -1881,7 +1872,7 @@
         "Quality" : 82,
         "Type" : "Semi-soft",
         "SUID" : 327,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Blu del Moncenisio",
         "Country" : "Italy",
         "shared_name" : "Blu del Moncenisio"
@@ -1898,7 +1889,7 @@
         "cytoscape_alias_list" : [ "Murianengo" ],
         "canonicalName" : "Murianengo",
         "SUID" : 326,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Murianengo",
         "shared_name" : "Murianengo"
       },
@@ -1918,7 +1909,7 @@
         "Quality" : 89,
         "Type" : "Soft",
         "SUID" : 325,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Bonde de Gatine",
         "Country" : "France",
         "shared_name" : "Bonde de Gatine"
@@ -1935,7 +1926,7 @@
         "cytoscape_alias_list" : [ "Chabichou du Poitou" ],
         "canonicalName" : "Chabichou du Poitou",
         "SUID" : 324,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Chabichou du Poitou",
         "shared_name" : "Chabichou du Poitou"
       },
@@ -1951,7 +1942,7 @@
         "cytoscape_alias_list" : [ "Clacbitou" ],
         "canonicalName" : "Clacbitou",
         "SUID" : 323,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Clacbitou",
         "shared_name" : "Clacbitou"
       },
@@ -1987,7 +1978,7 @@
         "Quality" : 80,
         "Type" : "Semi-soft",
         "SUID" : 321,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Bra",
         "Country" : "Italy",
         "shared_name" : "Bra"
@@ -2004,7 +1995,7 @@
         "cytoscape_alias_list" : [ "Raschera" ],
         "canonicalName" : "Raschera",
         "SUID" : 320,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Raschera",
         "shared_name" : "Raschera"
       },
@@ -2056,7 +2047,7 @@
         "Quality" : 71,
         "Type" : "Soft",
         "SUID" : 317,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Brescianella Stagionata",
         "Country" : "Italy",
         "shared_name" : "Brescianella Stagionata"
@@ -2073,7 +2064,7 @@
         "cytoscape_alias_list" : [ "Quercino" ],
         "canonicalName" : "Quercino",
         "SUID" : 316,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Quercino",
         "shared_name" : "Quercino"
       },
@@ -2093,7 +2084,7 @@
         "Quality" : 83,
         "Type" : "Semi-soft",
         "SUID" : 315,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Taleggio",
         "Country" : "Italy",
         "shared_name" : "Taleggio"
@@ -2146,7 +2137,7 @@
         "Quality" : 87,
         "Type" : "Soft",
         "SUID" : 312,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Brie de Melun",
         "Country" : "France",
         "shared_name" : "Brie de Melun"
@@ -2163,7 +2154,7 @@
         "cytoscape_alias_list" : [ "Brie de Meaux" ],
         "canonicalName" : "Brie de Meaux",
         "SUID" : 311,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Brie de Meaux",
         "shared_name" : "Brie de Meaux"
       },
@@ -2179,7 +2170,7 @@
         "cytoscape_alias_list" : [ "Brie de Nangis" ],
         "canonicalName" : "Brie de Nangis",
         "SUID" : 310,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Brie de Nangis",
         "shared_name" : "Brie de Nangis"
       },
@@ -2199,7 +2190,7 @@
         "Quality" : 76,
         "Type" : "Soft",
         "SUID" : 309,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Coulommiers",
         "Country" : "France",
         "shared_name" : "Coulommiers"
@@ -2252,7 +2243,7 @@
         "Quality" : 92,
         "Type" : "Semi-soft",
         "SUID" : 306,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Cabrales",
         "Country" : "Spain",
         "shared_name" : "Cabrales"
@@ -2273,7 +2264,7 @@
         "Quality" : 86,
         "Type" : "Semi-hard",
         "SUID" : 305,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Gamonedo",
         "Country" : "Spain",
         "shared_name" : "Gamonedo"
@@ -2290,7 +2281,7 @@
         "cytoscape_alias_list" : [ "Picon Beyes" ],
         "canonicalName" : "Picon Beyes",
         "SUID" : 304,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Picon Beyes",
         "shared_name" : "Picon Beyes"
       },
@@ -2310,7 +2301,7 @@
         "Quality" : 92,
         "Type" : "Semi-hard",
         "SUID" : 303,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Valdeon",
         "Country" : "Spain",
         "shared_name" : "Valdeon"
@@ -2347,7 +2338,7 @@
         "Quality" : 93,
         "Type" : "Semi-hard",
         "SUID" : 301,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Caerphilly",
         "Country" : "England",
         "shared_name" : "Caerphilly"
@@ -2368,7 +2359,7 @@
         "Quality" : 82,
         "Type" : "Hard",
         "SUID" : 300,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Llangloffan",
         "Country" : "Wales",
         "shared_name" : "Llangloffan"
@@ -2389,7 +2380,7 @@
         "Quality" : 89,
         "Type" : "Hard",
         "SUID" : 299,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Single Gloucester",
         "Country" : "England",
         "shared_name" : "Single Gloucester"
@@ -2442,7 +2433,7 @@
         "Quality" : 86,
         "Type" : "Soft",
         "SUID" : 296,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Camembert",
         "Country" : "France",
         "shared_name" : "Camembert"
@@ -2459,7 +2450,7 @@
         "cytoscape_alias_list" : [ "Brie" ],
         "canonicalName" : "Brie",
         "SUID" : 295,
-        "NodeType" : "CheeseType",
+        "NodeType" : "TrackerType",
         "name" : "Brie",
         "shared_name" : "Brie"
       },
@@ -2479,7 +2470,7 @@
         "Quality" : 74,
         "Type" : "Soft",
         "SUID" : 294,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Chaource",
         "Country" : "France",
         "shared_name" : "Chaource"
@@ -2516,7 +2507,7 @@
         "Quality" : 91,
         "Type" : "Hard",
         "SUID" : 292,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Canestrato Pugliese",
         "Country" : "Italy",
         "shared_name" : "Canestrato Pugliese"
@@ -2533,7 +2524,7 @@
         "cytoscape_alias_list" : [ "Canestrato Abbruzzese" ],
         "canonicalName" : "Canestrato Abbruzzese",
         "SUID" : 291,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Canestrato Abbruzzese",
         "shared_name" : "Canestrato Abbruzzese"
       },
@@ -2549,7 +2540,7 @@
         "cytoscape_alias_list" : [ "Pecorino Romano" ],
         "canonicalName" : "Pecorino Romano",
         "SUID" : 290,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Pecorino Romano",
         "shared_name" : "Pecorino Romano"
       },
@@ -2569,7 +2560,7 @@
         "Quality" : 89,
         "Type" : "Hard",
         "SUID" : 289,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Cantal",
         "Country" : "France",
         "shared_name" : "Cantal"
@@ -2590,7 +2581,7 @@
         "Quality" : 91,
         "Type" : "Hard",
         "SUID" : 288,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Laguiole",
         "Country" : "France",
         "shared_name" : "Laguiole"
@@ -2611,7 +2602,7 @@
         "Quality" : 92,
         "Type" : "Hard",
         "SUID" : 287,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Lancashire",
         "Country" : "England",
         "shared_name" : "Lancashire"
@@ -2628,7 +2619,7 @@
         "cytoscape_alias_list" : [ "Salers" ],
         "canonicalName" : "Salers",
         "SUID" : 286,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Salers",
         "shared_name" : "Salers"
       },
@@ -2644,7 +2635,7 @@
         "cytoscape_alias_list" : [ "Caprino Noccetto" ],
         "canonicalName" : "Caprino Noccetto",
         "SUID" : 285,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Caprino Noccetto",
         "shared_name" : "Caprino Noccetto"
       },
@@ -2664,7 +2655,7 @@
         "Quality" : 87,
         "Type" : "Soft",
         "SUID" : 284,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Caprino Noce",
         "Country" : "Italy",
         "shared_name" : "Caprino Noce"
@@ -2717,7 +2708,7 @@
         "Quality" : 72,
         "Type" : "Semi-hard",
         "SUID" : 281,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Cardinal Sin",
         "Country" : "England",
         "shared_name" : "Cardinal Sin"
@@ -2738,7 +2729,7 @@
         "Quality" : 79,
         "Type" : "Soft",
         "SUID" : 280,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Munster",
         "Country" : "France",
         "shared_name" : "Munster"
@@ -2759,7 +2750,7 @@
         "Quality" : 84,
         "Type" : "Soft",
         "SUID" : 279,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Reblochon",
         "Country" : "Switzerland",
         "shared_name" : "Reblochon"
@@ -2796,7 +2787,7 @@
         "Quality" : 85,
         "Type" : "Semi-soft",
         "SUID" : 277,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Gorgonzola",
         "Country" : "Italy",
         "shared_name" : "Gorgonzola"
@@ -2817,7 +2808,7 @@
         "Quality" : 71,
         "Type" : "Semi-soft",
         "SUID" : 276,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Catahoula",
         "Country" : "US",
         "shared_name" : "Catahoula"
@@ -2838,7 +2829,7 @@
         "Quality" : 75,
         "Type" : "Semi-soft",
         "SUID" : 275,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Livarot",
         "Country" : "France",
         "shared_name" : "Livarot"
@@ -2859,7 +2850,7 @@
         "Quality" : 86,
         "Type" : "Semi-soft",
         "SUID" : 274,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Pont l'Eveque",
         "Country" : "France",
         "shared_name" : "Pont l'Eveque"
@@ -2880,7 +2871,7 @@
         "Quality" : 91,
         "Type" : "Semi-hard",
         "SUID" : 273,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Centovalli Ticino",
         "Country" : "Switzerland",
         "shared_name" : "Centovalli Ticino"
@@ -2901,7 +2892,7 @@
         "Quality" : 88,
         "Type" : "Semi-soft",
         "SUID" : 272,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Chabichou de Poitou",
         "Country" : "France",
         "shared_name" : "Chabichou de Poitou"
@@ -2922,7 +2913,7 @@
         "Quality" : 78,
         "Type" : "Semi-soft",
         "SUID" : 271,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Crottin de Chavignol",
         "Country" : "France",
         "shared_name" : "Crottin de Chavignol"
@@ -2959,7 +2950,7 @@
         "Quality" : 72,
         "Type" : "Soft",
         "SUID" : 269,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Explorateur",
         "Country" : "France",
         "shared_name" : "Explorateur"
@@ -2980,7 +2971,7 @@
         "Quality" : 72,
         "Type" : "Soft",
         "SUID" : 268,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Roucoulons",
         "Country" : "Switzerland",
         "shared_name" : "Roucoulons"
@@ -3001,7 +2992,7 @@
         "Quality" : 76,
         "Type" : "Semi-soft",
         "SUID" : 267,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Chaput Vacherin Mont D'Or",
         "Country" : "Canada",
         "shared_name" : "Chaput Vacherin Mont D'Or"
@@ -3022,7 +3013,7 @@
         "Quality" : 92,
         "Type" : "Soft",
         "SUID" : 266,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Krummenswiler Forsterkase",
         "Country" : "Switzerland",
         "shared_name" : "Krummenswiler Forsterkase"
@@ -3039,7 +3030,7 @@
         "cytoscape_alias_list" : [ "Vacherin Mont d'Or" ],
         "canonicalName" : "Vacherin Mont d'Or",
         "SUID" : 265,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Vacherin Mont d'Or",
         "shared_name" : "Vacherin Mont d'Or"
       },
@@ -3055,7 +3046,7 @@
         "cytoscape_alias_list" : [ "Cheddar" ],
         "canonicalName" : "Cheddar",
         "SUID" : 264,
-        "NodeType" : "CheeseType",
+        "NodeType" : "TrackerType",
         "name" : "Cheddar",
         "shared_name" : "Cheddar"
       },
@@ -3075,7 +3066,7 @@
         "Quality" : 88,
         "Type" : "Hard",
         "SUID" : 263,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Fiscalini Bandage Cheddar",
         "Country" : "US",
         "shared_name" : "Fiscalini Bandage Cheddar"
@@ -3096,7 +3087,7 @@
         "Quality" : 89,
         "Type" : "Hard",
         "SUID" : 262,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Grafton Cheddar",
         "Country" : "US",
         "shared_name" : "Grafton Cheddar"
@@ -3117,7 +3108,7 @@
         "Quality" : 97,
         "Type" : "Hard",
         "SUID" : 261,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Keen's Cheddar",
         "Country" : "England",
         "shared_name" : "Keen's Cheddar"
@@ -3138,7 +3129,7 @@
         "Quality" : 93,
         "Type" : "Hard",
         "SUID" : 260,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Lincolnshire Poacher",
         "Country" : "England",
         "shared_name" : "Lincolnshire Poacher"
@@ -3159,7 +3150,7 @@
         "Quality" : 98,
         "Type" : "Hard",
         "SUID" : 259,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Montgomery's Cheddar",
         "Country" : "England",
         "shared_name" : "Montgomery's Cheddar"
@@ -3180,7 +3171,7 @@
         "Quality" : 92,
         "Type" : "Hard",
         "SUID" : 258,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Reade's Cheddar",
         "Country" : "Scotland",
         "shared_name" : "Reade's Cheddar"
@@ -3201,7 +3192,7 @@
         "Quality" : 91,
         "Type" : "Hard",
         "SUID" : 257,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Westcombe Cheddar",
         "Country" : "England",
         "shared_name" : "Westcombe Cheddar"
@@ -3222,7 +3213,7 @@
         "Quality" : 84,
         "Type" : "Semi-hard",
         "SUID" : 256,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Cheshire",
         "Country" : "England",
         "shared_name" : "Cheshire"
@@ -3239,7 +3230,7 @@
         "cytoscape_alias_list" : [ "Double Gloucester" ],
         "canonicalName" : "Double Gloucester",
         "SUID" : 255,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Double Gloucester",
         "shared_name" : "Double Gloucester"
       },
@@ -3275,7 +3266,7 @@
         "Quality" : 82,
         "Type" : "Soft",
         "SUID" : 253,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Chevrotin Des Aravis",
         "Country" : "France",
         "shared_name" : "Chevrotin Des Aravis"
@@ -3296,7 +3287,7 @@
         "Quality" : 73,
         "Type" : "Semi-soft",
         "SUID" : 252,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Classic Blue",
         "Country" : "US",
         "shared_name" : "Classic Blue"
@@ -3317,7 +3308,7 @@
         "Quality" : 95,
         "Type" : "Semi-soft",
         "SUID" : 251,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Monte Enebro",
         "Country" : "Spain",
         "shared_name" : "Monte Enebro"
@@ -3338,7 +3329,7 @@
         "Quality" : 74,
         "Type" : "Soft",
         "SUID" : 250,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Constant Bliss",
         "Country" : "US",
         "shared_name" : "Constant Bliss"
@@ -3359,7 +3350,7 @@
         "Quality" : 88,
         "Type" : "Semi-hard",
         "SUID" : 249,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Coolea",
         "Country" : "Ireland",
         "shared_name" : "Coolea"
@@ -3380,7 +3371,7 @@
         "Quality" : 96,
         "Type" : "Semi-hard",
         "SUID" : 248,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Gouda Boerenkaas",
         "Country" : "Holland",
         "shared_name" : "Gouda Boerenkaas"
@@ -3401,7 +3392,7 @@
         "Quality" : 77,
         "Type" : "Semi-hard",
         "SUID" : 247,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Mimolette",
         "Country" : "France",
         "shared_name" : "Mimolette"
@@ -3438,7 +3429,7 @@
         "Quality" : 90,
         "Type" : "Semi-soft",
         "SUID" : 245,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Pouligny-Saint-Pierre",
         "Country" : "France",
         "shared_name" : "Pouligny-Saint-Pierre"
@@ -3455,7 +3446,7 @@
         "cytoscape_alias_list" : [ "Sancerrois" ],
         "canonicalName" : "Sancerrois",
         "SUID" : 244,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Sancerrois",
         "shared_name" : "Sancerrois"
       },
@@ -3475,7 +3466,7 @@
         "Quality" : 89,
         "Type" : "Semi-soft",
         "SUID" : 243,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Selles-sur-Cher",
         "Country" : "France",
         "shared_name" : "Selles-sur-Cher"
@@ -3496,7 +3487,7 @@
         "Quality" : 91,
         "Type" : "Semi-hard",
         "SUID" : 242,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Valencay",
         "Country" : "France",
         "shared_name" : "Valencay"
@@ -3549,7 +3540,7 @@
         "Quality" : 92,
         "Type" : "Hard",
         "SUID" : 239,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Doddington",
         "Country" : "England",
         "shared_name" : "Doddington"
@@ -3566,7 +3557,7 @@
         "cytoscape_alias_list" : [ "Saint Nectaire" ],
         "canonicalName" : "Saint Nectaire",
         "SUID" : 238,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Saint Nectaire",
         "shared_name" : "Saint Nectaire"
       },
@@ -3586,7 +3577,7 @@
         "Quality" : 82,
         "Type" : "Semi-hard",
         "SUID" : 237,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Tomme de Savoie",
         "Country" : "France",
         "shared_name" : "Tomme de Savoie"
@@ -3623,7 +3614,7 @@
         "Quality" : 90,
         "Type" : "Soft",
         "SUID" : 235,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Epoisses de Bourgogne",
         "Country" : "France",
         "shared_name" : "Epoisses de Bourgogne"
@@ -3644,7 +3635,7 @@
         "Quality" : 89,
         "Type" : "Soft",
         "SUID" : 234,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "L'Ami du Chambertin",
         "Country" : "France",
         "shared_name" : "L'Ami du Chambertin"
@@ -3666,7 +3657,7 @@
         "Quality" : 84,
         "Type" : "Semi-hard",
         "SUID" : 233,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Evora",
         "Country" : "Portugal",
         "shared_name" : "Evora"
@@ -3687,7 +3678,7 @@
         "Quality" : 84,
         "Type" : "Semi-hard",
         "SUID" : 232,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Fiumorbu Brebis",
         "Country" : "France",
         "shared_name" : "Fiumorbu Brebis"
@@ -3708,7 +3699,7 @@
         "Quality" : 93,
         "Type" : "Semi-hard",
         "SUID" : 231,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Stanser Schafkase",
         "Country" : "Switzerland",
         "shared_name" : "Stanser Schafkase"
@@ -3745,7 +3736,7 @@
         "Quality" : 91,
         "Type" : "Hard",
         "SUID" : 229,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Flixer",
         "Country" : "Switzerland",
         "shared_name" : "Flixer"
@@ -3766,7 +3757,7 @@
         "Quality" : 87,
         "Type" : "Hard",
         "SUID" : 228,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Ossau-Iraty Brebis",
         "Country" : "France",
         "shared_name" : "Ossau-Iraty Brebis"
@@ -3803,7 +3794,7 @@
         "Quality" : 72,
         "Type" : "Semi-soft",
         "SUID" : 226,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Foin d'Odeur",
         "Country" : "Canada",
         "shared_name" : "Foin d'Odeur"
@@ -3820,7 +3811,7 @@
         "cytoscape_alias_list" : [ "Innerschweizer Schafkase" ],
         "canonicalName" : "Innerschweizer Schafkase",
         "SUID" : 225,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Innerschweizer Schafkase",
         "shared_name" : "Innerschweizer Schafkase"
       },
@@ -3904,7 +3895,7 @@
         "Quality" : 76,
         "Type" : "Soft",
         "SUID" : 220,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Fougerus",
         "Country" : "France",
         "shared_name" : "Fougerus"
@@ -3925,7 +3916,7 @@
         "Quality" : 81,
         "Type" : "Soft",
         "SUID" : 219,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Brillat-Savarin",
         "Country" : "France",
         "shared_name" : "Brillat-Savarin"
@@ -3946,7 +3937,7 @@
         "Quality" : 79,
         "Type" : "Soft",
         "SUID" : 218,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Pierre-Robert",
         "Country" : "France",
         "shared_name" : "Pierre-Robert"
@@ -3963,7 +3954,7 @@
         "cytoscape_alias_list" : [ "Blu de Moncenisio" ],
         "canonicalName" : "Blu de Moncenisio",
         "SUID" : 217,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Blu de Moncenisio",
         "shared_name" : "Blu de Moncenisio"
       },
@@ -3979,7 +3970,7 @@
         "cytoscape_alias_list" : [ "Edam" ],
         "canonicalName" : "Edam",
         "SUID" : 216,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Edam",
         "shared_name" : "Edam"
       },
@@ -3999,7 +3990,7 @@
         "Quality" : 96,
         "Type" : "Hard",
         "SUID" : 215,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Roomano",
         "Country" : "Holland",
         "shared_name" : "Roomano"
@@ -4020,7 +4011,7 @@
         "Quality" : 79,
         "Type" : "Semi-soft",
         "SUID" : 214,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Great Hill Blue",
         "Country" : "US",
         "shared_name" : "Great Hill Blue"
@@ -4073,7 +4064,7 @@
         "Quality" : 97,
         "Type" : "Semi-hard",
         "SUID" : 211,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Hoch Ybrig",
         "Country" : "Switzerland",
         "shared_name" : "Hoch Ybrig"
@@ -4110,7 +4101,7 @@
         "Quality" : 72,
         "Type" : "Semi-soft",
         "SUID" : 209,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Persille de Tignes",
         "Country" : "France",
         "shared_name" : "Persille de Tignes"
@@ -4147,7 +4138,7 @@
         "Quality" : 72,
         "Type" : "Semi-soft",
         "SUID" : 207,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Harvest Moon",
         "Country" : "US",
         "shared_name" : "Harvest Moon"
@@ -4184,7 +4175,7 @@
         "Quality" : 84,
         "Type" : "Semi-hard",
         "SUID" : 205,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Hilltown Wheel",
         "Country" : "US",
         "shared_name" : "Hilltown Wheel"
@@ -4201,7 +4192,7 @@
         "cytoscape_alias_list" : [ "Chevrotin" ],
         "canonicalName" : "Chevrotin",
         "SUID" : 204,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Chevrotin",
         "shared_name" : "Chevrotin"
       },
@@ -4214,12 +4205,12 @@
       "data" : {
         "id" : "203",
         "selected" : false,
-        "cytoscape_alias_list" : [ "Harvest Cheese" ],
-        "canonicalName" : "Harvest Cheese",
+        "cytoscape_alias_list" : [ "Harvest Tracker" ],
+        "canonicalName" : "Harvest Tracker",
         "SUID" : 203,
-        "NodeType" : "Cheese",
-        "name" : "Harvest Cheese",
-        "shared_name" : "Harvest Cheese"
+        "NodeType" : "Tracker",
+        "name" : "Harvest Tracker",
+        "shared_name" : "Harvest Tracker"
       },
       "position" : {
         "x" : 5475.91748046875,
@@ -4233,7 +4224,7 @@
         "cytoscape_alias_list" : [ "Tomalo Tomme" ],
         "canonicalName" : "Tomalo Tomme",
         "SUID" : 202,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Tomalo Tomme",
         "shared_name" : "Tomalo Tomme"
       },
@@ -4249,7 +4240,7 @@
         "cytoscape_alias_list" : [ "Tomme de Chevre" ],
         "canonicalName" : "Tomme de Chevre",
         "SUID" : 201,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Tomme de Chevre",
         "shared_name" : "Tomme de Chevre"
       },
@@ -4265,7 +4256,7 @@
         "cytoscape_alias_list" : [ "Bundner Alpkase" ],
         "canonicalName" : "Bundner Alpkase",
         "SUID" : 200,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Bundner Alpkase",
         "shared_name" : "Bundner Alpkase"
       },
@@ -4281,7 +4272,7 @@
         "cytoscape_alias_list" : [ "Urner Bergkase" ],
         "canonicalName" : "Urner Bergkase",
         "SUID" : 199,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Urner Bergkase",
         "shared_name" : "Urner Bergkase"
       },
@@ -4301,7 +4292,7 @@
         "Quality" : 76,
         "Type" : "Semi-soft",
         "SUID" : 198,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Hudson Valley Camembert",
         "Country" : "US",
         "shared_name" : "Hudson Valley Camembert"
@@ -4322,7 +4313,7 @@
         "Quality" : 75,
         "Type" : "Soft",
         "SUID" : 197,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Humboldt Fog",
         "Country" : "US",
         "shared_name" : "Humboldt Fog"
@@ -4343,7 +4334,7 @@
         "Quality" : 76,
         "Type" : "Semi-soft",
         "SUID" : 196,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Wabash Cannonball",
         "Country" : "US",
         "shared_name" : "Wabash Cannonball"
@@ -4365,7 +4356,7 @@
         "Quality" : 89,
         "Type" : "Semi-hard",
         "SUID" : 195,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Ibores",
         "Country" : "Spain",
         "shared_name" : "Ibores"
@@ -4386,7 +4377,7 @@
         "Quality" : 85,
         "Type" : "Semi-hard",
         "SUID" : 194,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Queso de la Garrotxa",
         "Country" : "Spain",
         "shared_name" : "Queso de la Garrotxa"
@@ -4407,7 +4398,7 @@
         "Quality" : 74,
         "Type" : "Semi-hard",
         "SUID" : 193,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Jersey Blue",
         "Country" : "US",
         "shared_name" : "Jersey Blue"
@@ -4428,7 +4419,7 @@
         "Quality" : 88,
         "Type" : "Semi-soft",
         "SUID" : 192,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Langres",
         "Country" : "France",
         "shared_name" : "Langres"
@@ -4449,7 +4440,7 @@
         "Quality" : 71,
         "Type" : "Hard",
         "SUID" : 191,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Lavort",
         "Country" : "France",
         "shared_name" : "Lavort"
@@ -4470,7 +4461,7 @@
         "Quality" : 92,
         "Type" : "Soft",
         "SUID" : 190,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Le Cabri Ariegeois",
         "Country" : "France",
         "shared_name" : "Le Cabri Ariegeois"
@@ -4491,7 +4482,7 @@
         "Quality" : 74,
         "Type" : "Semi-soft",
         "SUID" : 189,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Le Chevre Noir",
         "Country" : "Canada",
         "shared_name" : "Le Chevre Noir"
@@ -4544,7 +4535,7 @@
         "Quality" : 95,
         "Type" : "Semi-soft",
         "SUID" : 186,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Le Moulis cow",
         "Country" : "France",
         "shared_name" : "Le Moulis cow"
@@ -4561,7 +4552,7 @@
         "cytoscape_alias_list" : [ "Bethmale" ],
         "canonicalName" : "Bethmale",
         "SUID" : 185,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Bethmale",
         "shared_name" : "Bethmale"
       },
@@ -4581,7 +4572,7 @@
         "Quality" : 89,
         "Type" : "Semi-soft",
         "SUID" : 184,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Le Moulis goat",
         "Country" : "France",
         "shared_name" : "Le Moulis goat"
@@ -4602,7 +4593,7 @@
         "Quality" : 89,
         "Type" : "Semi-soft",
         "SUID" : 183,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Le Moulis sheep",
         "Country" : "France",
         "shared_name" : "Le Moulis sheep"
@@ -4623,7 +4614,7 @@
         "Quality" : 87,
         "Type" : "Hard",
         "SUID" : 182,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Mahon",
         "Country" : "Spain",
         "shared_name" : "Mahon"
@@ -4645,7 +4636,7 @@
         "Quality" : 90,
         "Type" : "Semi-hard",
         "SUID" : 181,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Majorero",
         "Country" : "Spain",
         "shared_name" : "Majorero"
@@ -4666,7 +4657,7 @@
         "Quality" : 77,
         "Type" : "Semi-soft",
         "SUID" : 180,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Ticklemore",
         "Country" : "England",
         "shared_name" : "Ticklemore"
@@ -4703,7 +4694,7 @@
         "Quality" : 82,
         "Type" : "Hard",
         "SUID" : 178,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Manchego",
         "Country" : "Spain",
         "shared_name" : "Manchego"
@@ -4720,7 +4711,7 @@
         "cytoscape_alias_list" : [ "Castellano" ],
         "canonicalName" : "Castellano",
         "SUID" : 177,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Castellano",
         "shared_name" : "Castellano"
       },
@@ -4740,7 +4731,7 @@
         "Quality" : 90,
         "Type" : "Hard",
         "SUID" : 176,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Roncal",
         "Country" : "Spain",
         "shared_name" : "Roncal"
@@ -4761,7 +4752,7 @@
         "Quality" : 77,
         "Type" : "Semi-soft",
         "SUID" : 175,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Maroilles",
         "Country" : "France",
         "shared_name" : "Maroilles"
@@ -4783,7 +4774,7 @@
         "Quality" : 88,
         "Type" : "Semi-soft",
         "SUID" : 174,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Pave d'Auge",
         "Country" : "France",
         "shared_name" : "Pave d'Auge"
@@ -4804,7 +4795,7 @@
         "Quality" : 75,
         "Type" : "Hard",
         "SUID" : 173,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Matos St. George",
         "Country" : "US",
         "shared_name" : "Matos St. George"
@@ -4825,7 +4816,7 @@
         "Quality" : 84,
         "Type" : "Semi-hard",
         "SUID" : 172,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Mont St. Francis",
         "Country" : "US",
         "shared_name" : "Mont St. Francis"
@@ -4862,7 +4853,7 @@
         "Quality" : 88,
         "Type" : "Semi-hard",
         "SUID" : 170,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Montasio",
         "Country" : "Italy",
         "shared_name" : "Montasio"
@@ -4879,7 +4870,7 @@
         "cytoscape_alias_list" : [ "Asiago" ],
         "canonicalName" : "Asiago",
         "SUID" : 169,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Asiago",
         "shared_name" : "Asiago"
       },
@@ -4899,7 +4890,7 @@
         "Quality" : 89,
         "Type" : "Hard",
         "SUID" : 168,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Piave",
         "Country" : "Italy",
         "shared_name" : "Piave"
@@ -4932,7 +4923,7 @@
         "cytoscape_alias_list" : [ "Montsec" ],
         "canonicalName" : "Montsec",
         "SUID" : 166,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Montsec",
         "shared_name" : "Montsec"
       },
@@ -4952,7 +4943,7 @@
         "Quality" : 78,
         "Type" : "Hard",
         "SUID" : 165,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Monterey Dry Jack",
         "Country" : "US",
         "shared_name" : "Monterey Dry Jack"
@@ -4974,7 +4965,7 @@
         "Quality" : 97,
         "Type" : "Hard",
         "SUID" : 164,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Parmigiano-Reggiano",
         "Country" : "Italy",
         "shared_name" : "Parmigiano-Reggiano"
@@ -4995,7 +4986,7 @@
         "Quality" : 75,
         "Type" : "Semi-soft",
         "SUID" : 163,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Morbier",
         "Country" : "France",
         "shared_name" : "Morbier"
@@ -5012,7 +5003,7 @@
         "cytoscape_alias_list" : [ "St. Nectaire" ],
         "canonicalName" : "St. Nectaire",
         "SUID" : 162,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "St. Nectaire",
         "shared_name" : "St. Nectaire"
       },
@@ -5049,7 +5040,7 @@
         "Quality" : 81,
         "Type" : "Semi-soft",
         "SUID" : 160,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Mothais-sur-Feuille",
         "Country" : "France",
         "shared_name" : "Mothais-sur-Feuille"
@@ -5066,7 +5057,7 @@
         "cytoscape_alias_list" : [ "Bougon" ],
         "canonicalName" : "Bougon",
         "SUID" : 159,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Bougon",
         "shared_name" : "Bougon"
       },
@@ -5086,7 +5077,7 @@
         "Quality" : 82,
         "Type" : "Hard",
         "SUID" : 158,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Nisa",
         "Country" : "Portugal",
         "shared_name" : "Nisa"
@@ -5103,7 +5094,7 @@
         "cytoscape_alias_list" : [ "Queijo Amarelo da Beria Baixa" ],
         "canonicalName" : "Queijo Amarelo da Beria Baixa",
         "SUID" : 157,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Queijo Amarelo da Beria Baixa",
         "shared_name" : "Queijo Amarelo da Beria Baixa"
       },
@@ -5119,7 +5110,7 @@
         "cytoscape_alias_list" : [ "Queijo Evora" ],
         "canonicalName" : "Queijo Evora",
         "SUID" : 156,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Queijo Evora",
         "shared_name" : "Queijo Evora"
       },
@@ -5165,16 +5156,16 @@
         "id" : "153",
         "Strength" : 1,
         "selected" : false,
-        "cytoscape_alias_list" : [ "Orb Weaver Vermont Farmhouse Cheese" ],
-        "canonicalName" : "Orb Weaver Vermont Farmhouse Cheese",
+        "cytoscape_alias_list" : [ "Orb Weaver Vermont Farmhouse Tracker" ],
+        "canonicalName" : "Orb Weaver Vermont Farmhouse Tracker",
         "Milk" : "Raw cow's milk",
         "Quality" : 76,
         "Type" : "Semi-hard",
         "SUID" : 153,
-        "NodeType" : "Cheese",
-        "name" : "Orb Weaver Vermont Farmhouse Cheese",
+        "NodeType" : "Tracker",
+        "name" : "Orb Weaver Vermont Farmhouse Tracker",
         "Country" : "US",
-        "shared_name" : "Orb Weaver Vermont Farmhouse Cheese"
+        "shared_name" : "Orb Weaver Vermont Farmhouse Tracker"
       },
       "position" : {
         "x" : 5029.870361328125,
@@ -5204,7 +5195,7 @@
         "cytoscape_alias_list" : [ "Istara" ],
         "canonicalName" : "Istara",
         "SUID" : 151,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Istara",
         "shared_name" : "Istara"
       },
@@ -5220,7 +5211,7 @@
         "cytoscape_alias_list" : [ "Vallee d'Aspe" ],
         "canonicalName" : "Vallee d'Aspe",
         "SUID" : 150,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Vallee d'Aspe",
         "shared_name" : "Vallee d'Aspe"
       },
@@ -5252,7 +5243,7 @@
         "cytoscape_alias_list" : [ "Grana Padano" ],
         "canonicalName" : "Grana Padano",
         "SUID" : 148,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Grana Padano",
         "shared_name" : "Grana Padano"
       },
@@ -5289,7 +5280,7 @@
         "Quality" : 72,
         "Type" : "Semi-soft",
         "SUID" : 146,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Pau",
         "Country" : "Spain",
         "shared_name" : "Pau"
@@ -5311,7 +5302,7 @@
         "Quality" : 81,
         "Type" : "Hard",
         "SUID" : 145,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Pecorino Foglie Noce",
         "Country" : "Italy",
         "shared_name" : "Pecorino Foglie Noce"
@@ -5332,7 +5323,7 @@
         "Quality" : 75,
         "Type" : "Semi-soft",
         "SUID" : 144,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Penamellera",
         "Country" : "Spain",
         "shared_name" : "Penamellera"
@@ -5401,7 +5392,7 @@
         "Quality" : 77,
         "Type" : "Soft",
         "SUID" : 140,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Perail",
         "Country" : "France",
         "shared_name" : "Perail"
@@ -5418,7 +5409,7 @@
         "cytoscape_alias_list" : [ "Cabecou de Rocamadour" ],
         "canonicalName" : "Cabecou de Rocamadour",
         "SUID" : 139,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Cabecou de Rocamadour",
         "shared_name" : "Cabecou de Rocamadour"
       },
@@ -5434,7 +5425,7 @@
         "cytoscape_alias_list" : [ "Pave d'Affinois" ],
         "canonicalName" : "Pave d'Affinois",
         "SUID" : 138,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Pave d'Affinois",
         "shared_name" : "Pave d'Affinois"
       },
@@ -5454,7 +5445,7 @@
         "Quality" : 88,
         "Type" : "Soft",
         "SUID" : 137,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Saint-Marcellin",
         "Country" : "France",
         "shared_name" : "Saint-Marcellin"
@@ -5471,7 +5462,7 @@
         "cytoscape_alias_list" : [ "Persille de la Haute Tarentaise" ],
         "canonicalName" : "Persille de la Haute Tarentaise",
         "SUID" : 136,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Persille de la Haute Tarentaise",
         "shared_name" : "Persille de la Haute Tarentaise"
       },
@@ -5487,7 +5478,7 @@
         "cytoscape_alias_list" : [ "Persille des Aravis" ],
         "canonicalName" : "Persille des Aravis",
         "SUID" : 135,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Persille des Aravis",
         "shared_name" : "Persille des Aravis"
       },
@@ -5519,7 +5510,7 @@
         "cytoscape_alias_list" : [ "Gratte-Paille" ],
         "canonicalName" : "Gratte-Paille",
         "SUID" : 133,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Gratte-Paille",
         "shared_name" : "Gratte-Paille"
       },
@@ -5539,7 +5530,7 @@
         "Quality" : 89,
         "Type" : "Hard",
         "SUID" : 132,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Pleasant Ridge Reserve",
         "Country" : "US",
         "shared_name" : "Pleasant Ridge Reserve"
@@ -5560,7 +5551,7 @@
         "Quality" : 88,
         "Type" : "Semi-soft",
         "SUID" : 131,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Sainte-Maure de Touraine",
         "Country" : "France",
         "shared_name" : "Sainte-Maure de Touraine"
@@ -5597,7 +5588,7 @@
         "Quality" : 86,
         "Type" : "Soft",
         "SUID" : 129,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Queijo Amarelo da Beira Baixa",
         "Country" : "Portugal",
         "shared_name" : "Queijo Amarelo da Beira Baixa"
@@ -5634,7 +5625,7 @@
         "Quality" : 78,
         "Type" : "Hard",
         "SUID" : 127,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Queijo Terrincho Velho",
         "Country" : "Portugal",
         "shared_name" : "Queijo Terrincho Velho"
@@ -5671,7 +5662,7 @@
         "Quality" : 89,
         "Type" : "Semi-hard",
         "SUID" : 125,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Queso de la Peral",
         "Country" : "Spain",
         "shared_name" : "Queso de la Peral"
@@ -5688,7 +5679,7 @@
         "cytoscape_alias_list" : [ "Innerschweizer Weicher" ],
         "canonicalName" : "Innerschweizer Weicher",
         "SUID" : 124,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Innerschweizer Weicher",
         "shared_name" : "Innerschweizer Weicher"
       },
@@ -5708,7 +5699,7 @@
         "Quality" : 89,
         "Type" : "Soft",
         "SUID" : 123,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Red Hawk",
         "Country" : "US",
         "shared_name" : "Red Hawk"
@@ -5729,7 +5720,7 @@
         "Quality" : 74,
         "Type" : "Semi-soft",
         "SUID" : 122,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Roaring Forties Blue",
         "Country" : "Australia",
         "shared_name" : "Roaring Forties Blue"
@@ -5746,7 +5737,7 @@
         "cytoscape_alias_list" : [ "Robiola" ],
         "canonicalName" : "Robiola",
         "SUID" : 121,
-        "NodeType" : "CheeseType",
+        "NodeType" : "TrackerType",
         "name" : "Robiola",
         "Country" : "Italy",
         "shared_name" : "Robiola"
@@ -5763,7 +5754,7 @@
         "cytoscape_alias_list" : [ "Brunet" ],
         "canonicalName" : "Brunet",
         "SUID" : 120,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Brunet",
         "shared_name" : "Brunet"
       },
@@ -5779,7 +5770,7 @@
         "cytoscape_alias_list" : [ "Cimonino" ],
         "canonicalName" : "Cimonino",
         "SUID" : 119,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Cimonino",
         "shared_name" : "Cimonino"
       },
@@ -5799,7 +5790,7 @@
         "Quality" : 86,
         "Type" : "Soft",
         "SUID" : 118,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Robiola a Due Latti",
         "Country" : "Italy",
         "shared_name" : "Robiola a Due Latti"
@@ -5820,7 +5811,7 @@
         "Quality" : 90,
         "Type" : "Soft",
         "SUID" : 117,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Robiola a Tre Latti",
         "Country" : "Italy",
         "shared_name" : "Robiola a Tre Latti"
@@ -5841,7 +5832,7 @@
         "Quality" : 88,
         "Type" : "Semi-soft",
         "SUID" : 116,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Robiola Castagna",
         "Country" : "Italy",
         "shared_name" : "Robiola Castagna"
@@ -5862,7 +5853,7 @@
         "Quality" : 91,
         "Type" : "Semi-soft",
         "SUID" : 115,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Robiola di Roccaverano",
         "Country" : "Italy",
         "shared_name" : "Robiola di Roccaverano"
@@ -5883,7 +5874,7 @@
         "Quality" : 84,
         "Type" : "Semi-soft",
         "SUID" : 114,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Robiola Fia",
         "Country" : "Italy",
         "shared_name" : "Robiola Fia"
@@ -5904,7 +5895,7 @@
         "Quality" : 86,
         "Type" : "Semi-soft",
         "SUID" : 113,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Robiola Incavolata",
         "Country" : "Italy",
         "shared_name" : "Robiola Incavolata"
@@ -5925,7 +5916,7 @@
         "Quality" : 74,
         "Type" : "Semi-soft",
         "SUID" : 112,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Robiola Pineta",
         "Country" : "Italy",
         "shared_name" : "Robiola Pineta"
@@ -5946,7 +5937,7 @@
         "Quality" : 82,
         "Type" : "Semi-soft",
         "SUID" : 111,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Robiola Vite",
         "Country" : "Italy",
         "shared_name" : "Robiola Vite"
@@ -5963,7 +5954,7 @@
         "cytoscape_alias_list" : [ "Rochetta" ],
         "canonicalName" : "Rochetta",
         "SUID" : 110,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Rochetta",
         "shared_name" : "Rochetta"
       },
@@ -5983,7 +5974,7 @@
         "Quality" : 93,
         "Type" : "Semi-soft",
         "SUID" : 109,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Rogue River Blue",
         "Country" : "US",
         "shared_name" : "Rogue River Blue"
@@ -6000,7 +5991,7 @@
         "cytoscape_alias_list" : [ "Bleu des Basques" ],
         "canonicalName" : "Bleu des Basques",
         "SUID" : 108,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Bleu des Basques",
         "shared_name" : "Bleu des Basques"
       },
@@ -6016,7 +6007,7 @@
         "cytoscape_alias_list" : [ "L'Edel de Cleron" ],
         "canonicalName" : "L'Edel de Cleron",
         "SUID" : 107,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "L'Edel de Cleron",
         "shared_name" : "L'Edel de Cleron"
       },
@@ -6052,7 +6043,7 @@
         "Quality" : 90,
         "Type" : "Soft",
         "SUID" : 105,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Saint-Felicien",
         "Country" : "France",
         "shared_name" : "Saint-Felicien"
@@ -6073,7 +6064,7 @@
         "Quality" : 84,
         "Type" : "Soft",
         "SUID" : 104,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Saint-Nectaire",
         "Country" : "France",
         "shared_name" : "Saint-Nectaire"
@@ -6094,7 +6085,7 @@
         "Quality" : 99,
         "Type" : "Hard",
         "SUID" : 103,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Sbrinz",
         "Country" : "Switzerland",
         "shared_name" : "Sbrinz"
@@ -6115,7 +6106,7 @@
         "Quality" : 88,
         "Type" : "Semi-soft",
         "SUID" : 102,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Shropshire Blue",
         "Country" : "England",
         "shared_name" : "Shropshire Blue"
@@ -6132,7 +6123,7 @@
         "cytoscape_alias_list" : [ "Colston Bassett Stilton" ],
         "canonicalName" : "Colston Bassett Stilton",
         "SUID" : 101,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Colston Bassett Stilton",
         "shared_name" : "Colston Bassett Stilton"
       },
@@ -6153,7 +6144,7 @@
         "Quality" : 92,
         "Type" : "Soft",
         "SUID" : 100,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Stanser Chua Flada",
         "Country" : "Switzerland",
         "shared_name" : "Stanser Chua Flada"
@@ -6175,7 +6166,7 @@
         "Quality" : 93,
         "Type" : "Soft",
         "SUID" : 99,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Stanser Roteli",
         "Country" : "Switzerland",
         "shared_name" : "Stanser Roteli"
@@ -6197,7 +6188,7 @@
         "Quality" : 90,
         "Type" : "Soft",
         "SUID" : 98,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Stanser Schaf Reblochon",
         "Country" : "Switzerland",
         "shared_name" : "Stanser Schaf Reblochon"
@@ -6250,7 +6241,7 @@
         "Quality" : 88,
         "Type" : "Semi-hard",
         "SUID" : 95,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Tarentaise",
         "Country" : "US",
         "shared_name" : "Tarentaise"
@@ -6271,7 +6262,7 @@
         "Quality" : 85,
         "Type" : "Semi-soft",
         "SUID" : 94,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Taupiniere",
         "Country" : "France",
         "shared_name" : "Taupiniere"
@@ -6292,7 +6283,7 @@
         "Quality" : 81,
         "Type" : "Hard",
         "SUID" : 93,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Tessiner Geisskase",
         "Country" : "Switzerland",
         "shared_name" : "Tessiner Geisskase"
@@ -6313,7 +6304,7 @@
         "Quality" : 81,
         "Type" : "Semi-soft",
         "SUID" : 92,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Tetoun de Santa Agata",
         "Country" : "France",
         "shared_name" : "Tetoun de Santa Agata"
@@ -6330,7 +6321,7 @@
         "cytoscape_alias_list" : [ "Picodon de la Drome" ],
         "canonicalName" : "Picodon de la Drome",
         "SUID" : 91,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Picodon de la Drome",
         "shared_name" : "Picodon de la Drome"
       },
@@ -6350,7 +6341,7 @@
         "Quality" : 81,
         "Type" : "Semi-hard",
         "SUID" : 90,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Truffe de Valensole",
         "Country" : "France",
         "shared_name" : "Truffe de Valensole"
@@ -6371,7 +6362,7 @@
         "Quality" : 78,
         "Type" : "Semi-hard",
         "SUID" : 89,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Thomasville Tomme",
         "Country" : "US",
         "shared_name" : "Thomasville Tomme"
@@ -6388,7 +6379,7 @@
         "cytoscape_alias_list" : [ "Orb Weaver" ],
         "canonicalName" : "Orb Weaver",
         "SUID" : 88,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Orb Weaver",
         "shared_name" : "Orb Weaver"
       },
@@ -6408,7 +6399,7 @@
         "Quality" : 94,
         "Type" : "Semi-hard",
         "SUID" : 87,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Wildmannli",
         "Country" : "Switzerland",
         "shared_name" : "Wildmannli"
@@ -6426,7 +6417,7 @@
         "canonicalName" : "Triple Creme",
         "Milk" : "Cow's milk",
         "SUID" : 86,
-        "NodeType" : "CheeseType",
+        "NodeType" : "TrackerType",
         "name" : "Triple Creme",
         "Country" : "France",
         "shared_name" : "Triple Creme"
@@ -6443,7 +6434,7 @@
         "cytoscape_alias_list" : [ "Aviateur" ],
         "canonicalName" : "Aviateur",
         "SUID" : 85,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Aviateur",
         "shared_name" : "Aviateur"
       },
@@ -6459,7 +6450,7 @@
         "cytoscape_alias_list" : [ "Bayard Gourmand" ],
         "canonicalName" : "Bayard Gourmand",
         "SUID" : 84,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Bayard Gourmand",
         "shared_name" : "Bayard Gourmand"
       },
@@ -6475,7 +6466,7 @@
         "cytoscape_alias_list" : [ "Brique Fleurie" ],
         "canonicalName" : "Brique Fleurie",
         "SUID" : 83,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Brique Fleurie",
         "shared_name" : "Brique Fleurie"
       },
@@ -6491,7 +6482,7 @@
         "cytoscape_alias_list" : [ "Fontainbleau" ],
         "canonicalName" : "Fontainbleau",
         "SUID" : 82,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Fontainbleau",
         "shared_name" : "Fontainbleau"
       },
@@ -6507,7 +6498,7 @@
         "cytoscape_alias_list" : [ "Grand Mogol" ],
         "canonicalName" : "Grand Mogol",
         "SUID" : 81,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Grand Mogol",
         "shared_name" : "Grand Mogol"
       },
@@ -6523,7 +6514,7 @@
         "cytoscape_alias_list" : [ "Jean de Brie" ],
         "canonicalName" : "Jean de Brie",
         "SUID" : 80,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Jean de Brie",
         "shared_name" : "Jean de Brie"
       },
@@ -6539,7 +6530,7 @@
         "cytoscape_alias_list" : [ "Jean Grogne" ],
         "canonicalName" : "Jean Grogne",
         "SUID" : 79,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Jean Grogne",
         "shared_name" : "Jean Grogne"
       },
@@ -6555,7 +6546,7 @@
         "cytoscape_alias_list" : [ "Saint-Andre" ],
         "canonicalName" : "Saint-Andre",
         "SUID" : 78,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Saint-Andre",
         "shared_name" : "Saint-Andre"
       },
@@ -6571,7 +6562,7 @@
         "cytoscape_alias_list" : [ "Saint-Clair" ],
         "canonicalName" : "Saint-Clair",
         "SUID" : 77,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Saint-Clair",
         "shared_name" : "Saint-Clair"
       },
@@ -6587,7 +6578,7 @@
         "cytoscape_alias_list" : [ "Vignelait" ],
         "canonicalName" : "Vignelait",
         "SUID" : 76,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Vignelait",
         "shared_name" : "Vignelait"
       },
@@ -6607,7 +6598,7 @@
         "Quality" : 84,
         "Type" : "Semi-hard",
         "SUID" : 75,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Tumalo Tomme",
         "Country" : "US",
         "shared_name" : "Tumalo Tomme"
@@ -6624,7 +6615,7 @@
         "cytoscape_alias_list" : [ "Capricious" ],
         "canonicalName" : "Capricious",
         "SUID" : 74,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Capricious",
         "shared_name" : "Capricious"
       },
@@ -6640,7 +6631,7 @@
         "cytoscape_alias_list" : [ "Redmondo" ],
         "canonicalName" : "Redmondo",
         "SUID" : 73,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Redmondo",
         "shared_name" : "Redmondo"
       },
@@ -6660,7 +6651,7 @@
         "Quality" : 90,
         "Type" : "Semi-hard",
         "SUID" : 72,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Urner Alpkase",
         "Country" : "Switzerland",
         "shared_name" : "Urner Alpkase"
@@ -6677,7 +6668,7 @@
         "cytoscape_alias_list" : [ "Alp Drackloch" ],
         "canonicalName" : "Alp Drackloch",
         "SUID" : 71,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Alp Drackloch",
         "shared_name" : "Alp Drackloch"
       },
@@ -6698,7 +6689,7 @@
         "Quality" : 90,
         "Type" : "Soft",
         "SUID" : 70,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Vacherin du Haut-Doubs",
         "Country" : "France",
         "shared_name" : "Vacherin du Haut-Doubs"
@@ -6715,7 +6706,7 @@
         "cytoscape_alias_list" : [ "Vacherin d'Abondance" ],
         "canonicalName" : "Vacherin d'Abondance",
         "SUID" : 69,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Vacherin d'Abondance",
         "shared_name" : "Vacherin d'Abondance"
       },
@@ -6731,7 +6722,7 @@
         "cytoscape_alias_list" : [ "Vacherin Haut-Rive" ],
         "canonicalName" : "Vacherin Haut-Rive",
         "SUID" : 68,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Vacherin Haut-Rive",
         "shared_name" : "Vacherin Haut-Rive"
       },
@@ -6751,7 +6742,7 @@
         "Quality" : 91,
         "Type" : "Hard",
         "SUID" : 67,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Val Bagner",
         "Country" : "Switzerland",
         "shared_name" : "Val Bagner"
@@ -6768,7 +6759,7 @@
         "cytoscape_alias_list" : [ "Raclette Combes" ],
         "canonicalName" : "Raclette Combes",
         "SUID" : 66,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Raclette Combes",
         "shared_name" : "Raclette Combes"
       },
@@ -6784,7 +6775,7 @@
         "cytoscape_alias_list" : [ "Picon" ],
         "canonicalName" : "Picon",
         "SUID" : 65,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Picon",
         "shared_name" : "Picon"
       },
@@ -6800,7 +6791,7 @@
         "cytoscape_alias_list" : [ "Picon-Beyes Tresviso" ],
         "canonicalName" : "Picon-Beyes Tresviso",
         "SUID" : 64,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Picon-Beyes Tresviso",
         "shared_name" : "Picon-Beyes Tresviso"
       },
@@ -6820,7 +6811,7 @@
         "Quality" : 79,
         "Type" : "Hard",
         "SUID" : 63,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Wensleydale",
         "Country" : "England",
         "shared_name" : "Wensleydale"
@@ -6841,7 +6832,7 @@
         "Quality" : 74,
         "Type" : "Hard",
         "SUID" : 62,
-        "NodeType" : "Cheese",
+        "NodeType" : "Tracker",
         "name" : "Winchester Aged Gouda",
         "Country" : "US",
         "shared_name" : "Winchester Aged Gouda"
@@ -18384,12 +18375,12 @@
         "source" : "205",
         "target" : "203",
         "selected" : false,
-        "canonicalName" : "Hilltown Wheel (cc) Harvest Cheese",
+        "canonicalName" : "Hilltown Wheel (cc) Harvest Tracker",
         "SUID" : 945,
-        "name" : "Hilltown Wheel (cc) Harvest Cheese",
+        "name" : "Hilltown Wheel (cc) Harvest Tracker",
         "interaction" : "cc",
         "shared_interaction" : "cc",
-        "shared_name" : "Hilltown Wheel (cc) Harvest Cheese"
+        "shared_name" : "Hilltown Wheel (cc) Harvest Tracker"
       },
       "selected" : false
     }, {
@@ -21223,12 +21214,12 @@
         "source" : "153",
         "target" : "185",
         "selected" : false,
-        "canonicalName" : "Orb Weaver Vermont Farmhouse Cheese (cc) Bethmale",
+        "canonicalName" : "Orb Weaver Vermont Farmhouse Tracker (cc) Bethmale",
         "SUID" : 743,
-        "name" : "Orb Weaver Vermont Farmhouse Cheese (cc) Bethmale",
+        "name" : "Orb Weaver Vermont Farmhouse Tracker (cc) Bethmale",
         "interaction" : "cc",
         "shared_interaction" : "cc",
-        "shared_name" : "Orb Weaver Vermont Farmhouse Cheese (cc) Bethmale"
+        "shared_name" : "Orb Weaver Vermont Farmhouse Tracker (cc) Bethmale"
       },
       "selected" : false
     }, {
@@ -21237,12 +21228,12 @@
         "source" : "153",
         "target" : "186",
         "selected" : false,
-        "canonicalName" : "Orb Weaver Vermont Farmhouse Cheese (cc) Le Moulis cow",
+        "canonicalName" : "Orb Weaver Vermont Farmhouse Tracker (cc) Le Moulis cow",
         "SUID" : 742,
-        "name" : "Orb Weaver Vermont Farmhouse Cheese (cc) Le Moulis cow",
+        "name" : "Orb Weaver Vermont Farmhouse Tracker (cc) Le Moulis cow",
         "interaction" : "cc",
         "shared_interaction" : "cc",
-        "shared_name" : "Orb Weaver Vermont Farmhouse Cheese (cc) Le Moulis cow"
+        "shared_name" : "Orb Weaver Vermont Farmhouse Tracker (cc) Le Moulis cow"
       },
       "selected" : false
     }, {
@@ -21251,12 +21242,12 @@
         "source" : "153",
         "target" : "163",
         "selected" : false,
-        "canonicalName" : "Orb Weaver Vermont Farmhouse Cheese (cc) Morbier",
+        "canonicalName" : "Orb Weaver Vermont Farmhouse Tracker (cc) Morbier",
         "SUID" : 741,
-        "name" : "Orb Weaver Vermont Farmhouse Cheese (cc) Morbier",
+        "name" : "Orb Weaver Vermont Farmhouse Tracker (cc) Morbier",
         "interaction" : "cc",
         "shared_interaction" : "cc",
-        "shared_name" : "Orb Weaver Vermont Farmhouse Cheese (cc) Morbier"
+        "shared_name" : "Orb Weaver Vermont Farmhouse Tracker (cc) Morbier"
       },
       "selected" : false
     }, {
@@ -21265,12 +21256,12 @@
         "source" : "153",
         "target" : "383",
         "selected" : false,
-        "canonicalName" : "Orb Weaver Vermont Farmhouse Cheese (cr) Barbera d'Alba",
+        "canonicalName" : "Orb Weaver Vermont Farmhouse Tracker (cr) Barbera d'Alba",
         "SUID" : 740,
-        "name" : "Orb Weaver Vermont Farmhouse Cheese (cr) Barbera d'Alba",
+        "name" : "Orb Weaver Vermont Farmhouse Tracker (cr) Barbera d'Alba",
         "interaction" : "cr",
         "shared_interaction" : "cr",
-        "shared_name" : "Orb Weaver Vermont Farmhouse Cheese (cr) Barbera d'Alba"
+        "shared_name" : "Orb Weaver Vermont Farmhouse Tracker (cr) Barbera d'Alba"
       },
       "selected" : false
     }, {
@@ -21279,12 +21270,12 @@
         "source" : "153",
         "target" : "426",
         "selected" : false,
-        "canonicalName" : "Orb Weaver Vermont Farmhouse Cheese (cr) Beaujolais",
+        "canonicalName" : "Orb Weaver Vermont Farmhouse Tracker (cr) Beaujolais",
         "SUID" : 739,
-        "name" : "Orb Weaver Vermont Farmhouse Cheese (cr) Beaujolais",
+        "name" : "Orb Weaver Vermont Farmhouse Tracker (cr) Beaujolais",
         "interaction" : "cr",
         "shared_interaction" : "cr",
-        "shared_name" : "Orb Weaver Vermont Farmhouse Cheese (cr) Beaujolais"
+        "shared_name" : "Orb Weaver Vermont Farmhouse Tracker (cr) Beaujolais"
       },
       "selected" : false
     }, {
@@ -21293,12 +21284,12 @@
         "source" : "153",
         "target" : "152",
         "selected" : false,
-        "canonicalName" : "Orb Weaver Vermont Farmhouse Cheese (cr) Bourgueil",
+        "canonicalName" : "Orb Weaver Vermont Farmhouse Tracker (cr) Bourgueil",
         "SUID" : 738,
-        "name" : "Orb Weaver Vermont Farmhouse Cheese (cr) Bourgueil",
+        "name" : "Orb Weaver Vermont Farmhouse Tracker (cr) Bourgueil",
         "interaction" : "cr",
         "shared_interaction" : "cr",
-        "shared_name" : "Orb Weaver Vermont Farmhouse Cheese (cr) Bourgueil"
+        "shared_name" : "Orb Weaver Vermont Farmhouse Tracker (cr) Bourgueil"
       },
       "selected" : false
     }, {
@@ -21307,12 +21298,12 @@
         "source" : "153",
         "target" : "373",
         "selected" : false,
-        "canonicalName" : "Orb Weaver Vermont Farmhouse Cheese (cr) Syrah",
+        "canonicalName" : "Orb Weaver Vermont Farmhouse Tracker (cr) Syrah",
         "SUID" : 737,
-        "name" : "Orb Weaver Vermont Farmhouse Cheese (cr) Syrah",
+        "name" : "Orb Weaver Vermont Farmhouse Tracker (cr) Syrah",
         "interaction" : "cr",
         "shared_interaction" : "cr",
-        "shared_name" : "Orb Weaver Vermont Farmhouse Cheese (cr) Syrah"
+        "shared_name" : "Orb Weaver Vermont Farmhouse Tracker (cr) Syrah"
       },
       "selected" : false
     }, {
@@ -21321,12 +21312,12 @@
         "source" : "153",
         "target" : "372",
         "selected" : false,
-        "canonicalName" : "Orb Weaver Vermont Farmhouse Cheese (cw) California Chardonnay",
+        "canonicalName" : "Orb Weaver Vermont Farmhouse Tracker (cw) California Chardonnay",
         "SUID" : 736,
-        "name" : "Orb Weaver Vermont Farmhouse Cheese (cw) California Chardonnay",
+        "name" : "Orb Weaver Vermont Farmhouse Tracker (cw) California Chardonnay",
         "interaction" : "cw",
         "shared_interaction" : "cw",
-        "shared_name" : "Orb Weaver Vermont Farmhouse Cheese (cw) California Chardonnay"
+        "shared_name" : "Orb Weaver Vermont Farmhouse Tracker (cw) California Chardonnay"
       },
       "selected" : false
     }, {
