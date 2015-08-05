@@ -35,6 +35,7 @@ edge[interaction = "cc"] {
 	width: 4;
 }
  
+ 
 node[NodeType = "Tracker"],
 node[NodeType = "TrackerType"] {
 	background-color: #FACD37;
