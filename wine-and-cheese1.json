@@ -5,450 +5,31 @@
                 {"data" : {"id" : "429","selected" : false,"cytoscape_alias_list" : [ "Bergues" ],"canonicalName" : "Bergues","SUID" : 429,"NodeType" : "Tracker","name" : "Bergues","shared_name" : "Bergues"},"position" : {"x" : 4491.77880859375,"y" : 4647.23974609375},"selected" : false}, 
                 {"data" : {"id" : "428","selected" : false,"cytoscape_alias_list" : [ "Chimay" ],"canonicalName" : "Chimay","SUID" : 428, "NodeType" : "Tracker","name" : "Chimay","shared_name" : "Chimay"},"position" : {"x" : 4444.060546875,"y" : 4343.568359375},"selected" : false}, 
                 {"data" : {"id" : "427","selected" : false,"cytoscape_alias_list" : [ "Fiumorbu" ],"canonicalName" : "Fiumorbu","SUID" : 427,"NodeType" : "Tracker","name" : "Fiumorbu","shared_name" : "Fiumorbu"},"position" : {"x" : 4576.6962890625,"y" : 4617.2265625},"selected" : false},
-                 {
-      "data" : {
-        "id" : "426",
-        "selected" : false,
-        "cytoscape_alias_list" : [ "Beaujolais" ],
-        "canonicalName" : "Beaujolais",
-        "SUID" : 426,
-        "NodeType" : "TopRankWebsite",
-        "name" : "Beaujolais",
-        "shared_name" : "Beaujolais"
-      },
-      "position" : {
-        "x" : 1391.1080322265625,
-        "y" : 4324.1015625
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "425",
-        "selected" : false,
-        "cytoscape_alias_list" : [ "Alsatian Pinot Blanc" ],
-        "canonicalName" : "Alsatian Pinot Blanc",
-        "SUID" : 425,
-        "NodeType" : "LowRankWebsite",
-        "name" : "Alsatian Pinot Blanc",
-        "shared_name" : "Alsatian Pinot Blanc"
-      },
-      "position" : {
-        "x" : 6593.2421875,
-        "y" : 3798.56884765625
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "424",
-        "selected" : false,
-        "cytoscape_alias_list" : [ "California Sauvignon Blanc" ],
-        "canonicalName" : "California Sauvignon Blanc",
-        "SUID" : 424,
-        "NodeType" : "LowRankWebsite",
-        "name" : "California Sauvignon Blanc",
-        "shared_name" : "California Sauvignon Blanc"
-      },
-      "position" : {
-        "x" : 6593.2421875,
-        "y" : 4755.67529296875
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "423",
-        "selected" : false,
-        "cytoscape_alias_list" : [ "Vouvray sec" ],
-        "canonicalName" : "Vouvray sec",
-        "SUID" : 423,
-        "NodeType" : "LowRankWebsite",
-        "name" : "Vouvray sec",
-        "shared_name" : "Vouvray sec"
-      },
-      "position" : {
-        "x" : 6593.2421875,
-        "y" : 2961.10107421875
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "422",
-        "Strength" : 2,
-        "selected" : false,
-        "cytoscape_alias_list" : [ "Abbaye de Belloc" ],
-        "canonicalName" : "Abbaye de Belloc",
-        "Milk" : "Pasteurized sheep's milk",
-        "Quality" : 79,
-        "Type" : "Semi-hard",
-        "SUID" : 422,
-        "NodeType" : "Tracker",
-        "name" : "Abbaye de Belloc",
-        "Country" : "France",
-        "shared_name" : "Abbaye de Belloc"
-      },
-      "position" : {
-        "x" : 5092.990478515625,
-        "y" : 4739.724853515625
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "421",
-        "Strength" : 3,
-        "selected" : false,
-        "cytoscape_alias_list" : [ "Berkswell" ],
-        "canonicalName" : "Berkswell",
-        "Milk" : "Raw sheep's milk",
-        "Quality" : 94,
-        "Type" : "Semi-hard",
-        "SUID" : 421,
-        "NodeType" : "Tracker",
-        "name" : "Berkswell",
-        "Country" : "England",
-        "shared_name" : "Berkswell"
-      },
-      "position" : {
-        "x" : 5021.356689453125,
-        "y" : 4779.760009765625
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "420",
-        "selected" : false,
-        "cytoscape_alias_list" : [ "Le Moulis" ],
-        "canonicalName" : "Le Moulis",
-        "SUID" : 420,
-        "NodeType" : "Tracker",
-        "name" : "Le Moulis",
-        "shared_name" : "Le Moulis"
-      },
-      "position" : {
-        "x" : 5149.5029296875,
-        "y" : 4867.46435546875
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "419",
-        "Strength" : 3,
-        "selected" : false,
-        "cytoscape_alias_list" : [ "Google" ],
-        "canonicalName" : "Google",
-        "Milk" : "Raw sheep's milk",
-        "Quality" : 99,
-        "Type" : "Hard",
-        "SUID" : 419,
-        "NodeType" : "Tracker",
-        "name" : "Google",
-        "Country" : "England",
-        "shared_name" : "Google"
-      },
-      "position" : {
-        "x" : 5003.1142578125,
-        "y" : 4624.55908203125
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "418",
-        "Strength" : 3,
-        "selected" : false,
-        "cytoscape_alias_list" : [ "Vermont Shepherd" ],
-        "canonicalName" : "Vermont Shepherd",
-        "Milk" : "Raw ewe's milk",
-        "Quality" : 98,
-        "Type" : "Semi-soft",
-        "SUID" : 418,
-        "NodeType" : "Tracker",
-        "name" : "Vermont Shepherd",
-        "Country" : "US",
-        "shared_name" : "Vermont Shepherd"
-      },
-      "position" : {
-        "x" : 5007.8173828125,
-        "y" : 4698.89111328125
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "417",
-        "Strength" : 3,
-        "selected" : false,
-        "cytoscape_alias_list" : [ "Zamorano" ],
-        "canonicalName" : "Zamorano",
-        "Milk" : "Raw sheep's milk",
-        "Quality" : 90,
-        "Type" : "Hard",
-        "SUID" : 417,
-        "NodeType" : "Tracker",
-        "name" : "Zamorano",
-        "Country" : "Spain",
-        "shared_name" : "Zamorano"
-      },
-      "position" : {
-        "x" : 5135.268798828125,
-        "y" : 4654.758056640625
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "416",
-        "selected" : false,
-        "cytoscape_alias_list" : [ "California Zinfandel" ],
-        "canonicalName" : "California Zinfandel",
-        "SUID" : 416,
-        "NodeType" : "TopRankWebsite",
-        "name" : "California Zinfandel",
-        "shared_name" : "California Zinfandel"
-      },
-      "position" : {
-        "x" : 1391.1080322265625,
-        "y" : 3787.948486328125
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "415",
-        "selected" : false,
-        "cytoscape_alias_list" : [ "Carignan" ],
-        "canonicalName" : "Carignan",
-        "SUID" : 415,
-        "NodeType" : "TopRankWebsite",
-        "name" : "Carignan",
-        "shared_name" : "Carignan"
-      },
-      "position" : {
-        "x" : 1391.1080322265625,
-        "y" : 3690.466064453125
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "414",
-        "selected" : false,
-        "cytoscape_alias_list" : [ "Sancerre Rouge" ],
-        "canonicalName" : "Sancerre Rouge",
-        "SUID" : 414,
-        "NodeType" : "TopRankWebsite",
-        "name" : "Sancerre Rouge",
-        "shared_name" : "Sancerre Rouge"
-      },
-      "position" : {
-        "x" : 1391.108154296875,
-        "y" : 2861.865478515625
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "413",
-        "selected" : false,
-        "cytoscape_alias_list" : [ "German Riesling Kabinett" ],
-        "canonicalName" : "German Riesling Kabinett",
-        "SUID" : 413,
-        "NodeType" : "LowRankWebsite",
-        "name" : "German Riesling Kabinett",
-        "shared_name" : "German Riesling Kabinett"
-      },
-      "position" : {
-        "x" : 6593.2421875,
-        "y" : 3499.47314453125
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "412",
-        "selected" : false,
-        "cytoscape_alias_list" : [ "White Bordeaux" ],
-        "canonicalName" : "White Bordeaux",
-        "SUID" : 412,
-        "NodeType" : "LowRankWebsite",
-        "name" : "White Bordeaux",
-        "shared_name" : "White Bordeaux"
-      },
-      "position" : {
-        "x" : 6593.2421875,
-        "y" : 3080.739501953125
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "411",
-        "selected" : false,
-        "cytoscape_alias_list" : [ "White Burgundy" ],
-        "canonicalName" : "White Burgundy",
-        "SUID" : 411,
-        "NodeType" : "LowRankWebsite",
-        "name" : "White Burgundy",
-        "shared_name" : "White Burgundy"
-      },
-      "position" : {
-        "x" : 6593.2421875,
-        "y" : 3200.377685546875
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "410",
-        "Strength" : 3,
-        "selected" : false,
-        "cytoscape_alias_list" : [ "Abondance" ],
-        "canonicalName" : "Abondance",
-        "Milk" : "Raw cow's milk",
-        "Quality" : 90,
-        "Type" : "Semi-hard",
-        "SUID" : 410,
-        "NodeType" : "Tracker",
-        "name" : "Abondance",
-        "Country" : "France",
-        "shared_name" : "Abondance"
-      },
-      "position" : {
-        "x" : 5198.38720703125,
-        "y" : 4101.1241455078125
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "409",
-        "Strength" : 5,
-        "selected" : false,
-        "cytoscape_alias_list" : [ "Beaufort" ],
-        "canonicalName" : "Beaufort",
-        "Milk" : "Raw cow's milk",
-        "Quality" : 93,
-        "Type" : "Hard",
-        "SUID" : 409,
-        "NodeType" : "Tracker",
-        "name" : "Beaufort",
-        "Country" : "France",
-        "shared_name" : "Beaufort"
-      },
-      "position" : {
-        "x" : 5272.58642578125,
-        "y" : 4068.9853515625
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "408",
-        "selected" : false,
-        "cytoscape_alias_list" : [ "Comte" ],
-        "canonicalName" : "Comte",
-        "SUID" : 408,
-        "NodeType" : "Tracker",
-        "name" : "Comte",
-        "shared_name" : "Comte"
-      },
-      "position" : {
-        "x" : 5274.890625,
-        "y" : 4186.771484375
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "407",
-        "Strength" : 4,
-        "selected" : false,
-        "cytoscape_alias_list" : [ "Vacherin Fribourgeois" ],
-        "canonicalName" : "Vacherin Fribourgeois",
-        "Milk" : "Cow's milk",
-        "Quality" : 95,
-        "Type" : "Hard",
-        "SUID" : 407,
-        "NodeType" : "Tracker",
-        "name" : "Vacherin Fribourgeois",
-        "Country" : "Switzerland",
-        "shared_name" : "Vacherin Fribourgeois"
-      },
-      "position" : {
-        "x" : 5024.53466796875,
-        "y" : 4090.2454833984375
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "406",
-        "selected" : false,
-        "cytoscape_alias_list" : [ "Aglianico del Vulture" ],
-        "canonicalName" : "Aglianico del Vulture",
-        "SUID" : 406,
-        "NodeType" : "TopRankWebsite",
-        "name" : "Aglianico del Vulture",
-        "shared_name" : "Aglianico del Vulture"
-      },
-      "position" : {
-        "x" : 1391.108154296875,
-        "y" : 3349.277587890625
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "405",
-        "selected" : false,
-        "cytoscape_alias_list" : [ "California Merlot" ],
-        "canonicalName" : "California Merlot",
-        "SUID" : 405,
-        "NodeType" : "TopRankWebsite",
-        "name" : "California Merlot",
-        "shared_name" : "California Merlot"
-      },
-      "position" : {
-        "x" : 1391.108154296875,
-        "y" : 4177.8779296875
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "404",
-        "selected" : false,
-        "cytoscape_alias_list" : [ "Periquita blend" ],
-        "canonicalName" : "Periquita blend",
-        "SUID" : 404,
-        "NodeType" : "TopRankWebsite",
-        "name" : "Periquita blend",
-        "shared_name" : "Periquita blend"
-      },
-      "position" : {
-        "x" : 1391.108154296875,
-        "y" : 2228.22998046875
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "403",
-        "selected" : false,
-        "cytoscape_alias_list" : [ "Super Tuscan blend" ],
-        "canonicalName" : "Super Tuscan blend",
-        "SUID" : 403,
-        "NodeType" : "TopRankWebsite",
-        "name" : "Super Tuscan blend",
-        "shared_name" : "Super Tuscan blend"
-      },
-      "position" : {
-        "x" : 1391.108154296875,
-        "y" : 2959.347900390625
-      },
-      "selected" : false
-    }
-],
+                {"data" : {"id" : "426","selected" : false,"cytoscape_alias_list" : [ "Beaujolais" ],"canonicalName" : "Beaujolais","SUID" : 426,"NodeType" : "TopRankWebsite","name" : "Beaujolais","shared_name" : "Beaujolais"},"position" : {"x" : 1391.1080322265625,"y" : 4324.1015625},"selected" : false}, 
+                {"data" : {"id" : "425","selected" : false,"cytoscape_alias_list" : [ "Alsatian Pinot Blanc" ],"canonicalName" : "Alsatian Pinot Blanc","SUID" : 425,"NodeType" : "LowRankWebsite","name" : "Alsatian Pinot Blanc","shared_name" : "Alsatian Pinot Blanc"},"position" : {"x" : 6593.2421875,"y" : 3798.56884765625},"selected" : false}, 
+                {"data" : {"id" : "424","selected" : false,"cytoscape_alias_list" : [ "California Sauvignon Blanc" ],"canonicalName" : "California Sauvignon Blanc","SUID" : 424,"NodeType" : "LowRankWebsite","name" : "California Sauvignon Blanc","shared_name" : "California Sauvignon Blanc"},"position" : {"x" : 6593.2421875,"y" : 4755.67529296875},"selected" : false}, 
+                {"data" : {"id" : "423","selected" : false,"cytoscape_alias_list" : [ "Vouvray sec" ],"canonicalName" : "Vouvray sec","SUID" : 423,"NodeType" : "LowRankWebsite","name" : "Vouvray sec","shared_name" : "Vouvray sec"},"position" : {"x" : 6593.2421875,"y" : 2961.10107421875},"selected" : false}, 
+                {"data" : {"id" : "422","Strength" : 2,"selected" : false,"cytoscape_alias_list" : [ "Abbaye de Belloc" ],"canonicalName" : "Abbaye de Belloc","Milk" : "Pasteurized sheep's milk","Quality" : 79,"Type" : "Semi-hard","SUID" : 422,"NodeType" : "Tracker","name" : "Abbaye de Belloc","Country" : "France","shared_name" : "Abbaye de Belloc"},"position" : {"x" : 5092.990478515625,"y" : 4739.724853515625},"selected" : false}, 
+                {"data" : {"id" : "421","Strength" : 3,"selected" : false,"cytoscape_alias_list" : [ "Berkswell" ],"canonicalName" : "Berkswell","Milk" : "Raw sheep's milk","Quality" : 94,"Type" : "Semi-hard","SUID" : 421,"NodeType" : "Tracker","name" : "Berkswell","Country" : "England","shared_name" : "Berkswell"},"position" : {"x" : 5021.356689453125,"y" : 4779.760009765625},"selected" : false
+              }],
      "edges" : [ 
           {"data" : {"id" : "1763","source" : "430","target" : "429","selected" : false,"canonicalName" : "Aarauer Bierdeckel (cc) Bergues","SUID" : 1763,"name" : "Aarauer Bierdeckel (cc) Bergues","interaction" : "cc","shared_interaction" : "cc","shared_name" : "Aarauer Bierdeckel (cc) Bergues"},"selected" : false}, 
           {"data" : {"id" : "1762","source" : "430","target" : "428","selected" : false,"canonicalName" : "Aarauer Bierdeckel (cc) Chimay","SUID" : 1762,"name" : "Aarauer Bierdeckel (cc) Chimay","interaction" : "cc","shared_interaction" : "cc","shared_name" : "Aarauer Bierdeckel (cc) Chimay"},"selected" : false}, 
           {"data" : {"id" : "1761","source" : "430","target" : "427","selected" : false,"canonicalName" : "Aarauer Bierdeckel (cc) Fiumorbu","SUID" : 1761,"name" : "Aarauer Bierdeckel (cc) Fiumorbu","interaction" : "cc","shared_interaction" : "cc","shared_name" : "Aarauer Bierdeckel (cc) Fiumorbu"},"selected" : false}, 
           {"data" : {"id" : "1760","source" : "430","target" : "426","selected" : false,"canonicalName" : "Aarauer Bierdeckel (cr) Beaujolais","SUID" : 1760,"name" : "Aarauer Bierdeckel (cr) Beaujolais","interaction" : "cr","shared_interaction" : "cr","shared_name" : "Aarauer Bierdeckel (cr) Beaujolais"},"selected" : false}, 
           {"data" : {"id" : "1759","source" : "430","target" : "425","selected" : false,"canonicalName" : "Aarauer Bierdeckel (cw) Alsatian Pinot Blanc","SUID" : 1759,"name" : "Aarauer Bierdeckel (cw) Alsatian Pinot Blanc","interaction" : "cw","shared_interaction" : "cw","shared_name" : "Aarauer Bierdeckel (cw) Alsatian Pinot Blanc"},"selected" : false},
-           {
+    {
       "data" : {
         "id" : "1758",
         "source" : "430",
         "target" : "424",
         "selected" : false,
-        "canonicalName" : "Aarauer Bierdeckel (cw) California Sauvignon Blanc",
+        "canonicalName" : "Aarauer Bierdeckel (cw) Beaujolais",
         "SUID" : 1758,
-        "name" : "Aarauer Bierdeckel (cw) California Sauvignon Blanc",
+        "name" : "Aarauer Bierdeckel (cw) Beaujolais",
         "interaction" : "cw",
         "shared_interaction" : "cw",
-        "shared_name" : "Aarauer Bierdeckel (cw) California Sauvignon Blanc"
+        "shared_name" : "Aarauer Bierdeckel (cw) Beaujolais"
       },
       "selected" : false
     }, {
@@ -457,12 +38,12 @@
         "source" : "430",
         "target" : "423",
         "selected" : false,
-        "canonicalName" : "Aarauer Bierdeckel (cw) Vouvray sec",
+        "canonicalName" : "Aarauer Bierdeckel (cw) Beaujolais",
         "SUID" : 1757,
-        "name" : "Aarauer Bierdeckel (cw) Vouvray sec",
+        "name" : "Aarauer Bierdeckel (cw) Beaujolais",
         "interaction" : "cw",
         "shared_interaction" : "cw",
-        "shared_name" : "Aarauer Bierdeckel (cw) Vouvray sec"
+        "shared_name" : "Aarauer Bierdeckel (cw) Beaujolais"
       },
       "selected" : false
     }, {
@@ -471,12 +52,12 @@
         "source" : "422",
         "target" : "421",
         "selected" : false,
-        "canonicalName" : "Abbaye de Belloc (cc) Berkswell",
+        "canonicalName" : "Abbaye de Belloc (cc) Beaujolais",
         "SUID" : 1756,
-        "name" : "Abbaye de Belloc (cc) Berkswell",
+        "name" : "Abbaye de Belloc (cc) Beaujolais",
         "interaction" : "cc",
         "shared_interaction" : "cc",
-        "shared_name" : "Abbaye de Belloc (cc) Berkswell"
+        "shared_name" : "Abbaye de Belloc (cc) Beaujolais"
       },
       "selected" : false
     }, {
