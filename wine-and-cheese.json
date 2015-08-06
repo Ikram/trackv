@@ -6315,22 +6315,8 @@
       },
       "selected" : false
     }, {
-      "data" : {
-        "id" : "91",
-        "selected" : false,
-        "cytoscape_alias_list" : [ "Picodon de la Drome" ],
-        "canonicalName" : "Picodon de la Drome",
-        "SUID" : 91,
-        "NodeType" : "Tracker",
-        "name" : "Picodon de la Drome",
-        "shared_name" : "Picodon de la Drome"
-      },
-      "position" : {
-        "x" : 3606.001953125,
-        "y" : 2515.75537109375
-      },
-      "selected" : false
-    }, {
+      "data" : {"id" : "91","selected" : false,"cytoscape_alias_list" : [ "Picodon de la Drome" ],"canonicalName" : "Picodon de la Drome","SUID" : 91,"NodeType" : "Tracker","name" : "Picodon de la Drome","shared_name" : "Picodon de la Drome"},"position" : {"x" : 3606.001953125,"y" : 2515.75537109375},"selected" : false}, 
+    {
       "data" : {
         "id" : "90",
         "Strength" : 1,
@@ -6843,77 +6829,13 @@
       },
       "selected" : false
     } ],
-    "edges" : [ {
-      "data" : {
-        "id" : "1763",
-        "source" : "430",
-        "target" : "429",
-        "selected" : false,
-        "canonicalName" : "Aarauer Bierdeckel (cc) Bergues",
-        "SUID" : 1763,
-        "name" : "Aarauer Bierdeckel (cc) Bergues",
-        "interaction" : "cc",
-        "shared_interaction" : "cc",
-        "shared_name" : "Aarauer Bierdeckel (cc) Bergues"
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "1762",
-        "source" : "430",
-        "target" : "428",
-        "selected" : false,
-        "canonicalName" : "Aarauer Bierdeckel (cc) Chimay",
-        "SUID" : 1762,
-        "name" : "Aarauer Bierdeckel (cc) Chimay",
-        "interaction" : "cc",
-        "shared_interaction" : "cc",
-        "shared_name" : "Aarauer Bierdeckel (cc) Chimay"
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "1761",
-        "source" : "430",
-        "target" : "427",
-        "selected" : false,
-        "canonicalName" : "Aarauer Bierdeckel (cc) Fiumorbu",
-        "SUID" : 1761,
-        "name" : "Aarauer Bierdeckel (cc) Fiumorbu",
-        "interaction" : "cc",
-        "shared_interaction" : "cc",
-        "shared_name" : "Aarauer Bierdeckel (cc) Fiumorbu"
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "1760",
-        "source" : "430",
-        "target" : "426",
-        "selected" : false,
-        "canonicalName" : "Aarauer Bierdeckel (cr) Beaujolais",
-        "SUID" : 1760,
-        "name" : "Aarauer Bierdeckel (cr) Beaujolais",
-        "interaction" : "cr",
-        "shared_interaction" : "cr",
-        "shared_name" : "Aarauer Bierdeckel (cr) Beaujolais"
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "1759",
-        "source" : "430",
-        "target" : "425",
-        "selected" : false,
-        "canonicalName" : "Aarauer Bierdeckel (cw) Alsatian Pinot Blanc",
-        "SUID" : 1759,
-        "name" : "Aarauer Bierdeckel (cw) Alsatian Pinot Blanc",
-        "interaction" : "cw",
-        "shared_interaction" : "cw",
-        "shared_name" : "Aarauer Bierdeckel (cw) Alsatian Pinot Blanc"
-      },
-      "selected" : false
-    }, {
+    "edges" : [ 
+          {"data" : {"id" : "1763","source" : "430","target" : "429","selected" : false,"canonicalName" : "Aarauer Bierdeckel (cc) Bergues","SUID" : 1763,"name" : "Aarauer Bierdeckel (cc) Bergues","interaction" : "cc","shared_interaction" : "cc","shared_name" : "Aarauer Bierdeckel (cc) Bergues"},"selected" : false}, 
+          {"data" : {"id" : "1762","source" : "430","target" : "428","selected" : false,"canonicalName" : "Aarauer Bierdeckel (cc) Chimay","SUID" : 1762,"name" : "Aarauer Bierdeckel (cc) Chimay","interaction" : "cc","shared_interaction" : "cc","shared_name" : "Aarauer Bierdeckel (cc) Chimay"},"selected" : false}, 
+          {"data" : {"id" : "1761","source" : "430","target" : "427","selected" : false,"canonicalName" : "Aarauer Bierdeckel (cc) Fiumorbu","SUID" : 1761,"name" : "Aarauer Bierdeckel (cc) Fiumorbu","interaction" : "cc","shared_interaction" : "cc","shared_name" : "Aarauer Bierdeckel (cc) Fiumorbu"},"selected" : false}, 
+          {"data" : {"id" : "1760","source" : "430","target" : "426","selected" : false,"canonicalName" : "Aarauer Bierdeckel (cr) Beaujolais","SUID" : 1760,"name" : "Aarauer Bierdeckel (cr) Beaujolais","interaction" : "cr","shared_interaction" : "cr","shared_name" : "Aarauer Bierdeckel (cr) Beaujolais"},"selected" : false}, 
+          {"data" : {"id" : "1759","source" : "430","target" : "425","selected" : false,"canonicalName" : "Aarauer Bierdeckel (cw) Alsatian Pinot Blanc","SUID" : 1759,"name" : "Aarauer Bierdeckel (cw) Alsatian Pinot Blanc","interaction" : "cw","shared_interaction" : "cw","shared_name" : "Aarauer Bierdeckel (cw) Alsatian Pinot Blanc"},"selected" : false}, 
+    {
       "data" : {
         "id" : "1758",
         "source" : "430",
