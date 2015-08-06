@@ -1,30 +1,8 @@
 {"format_version" : "1.0", "generated_by" : "cytoscape-3.2.0", "target_cytoscapejs_version" : "~2.1", "data" : {
     "selected" : true, "__Annotations" : [ ], "shared_name" : "WineCheeseNetwork", "SUID" : 52, "name" : "WineCheeseNetwork" },
   "elements" : {
-    "nodes" : [ {
-      "data" : {
-        "id" : "430",
-        "Strength" : 5,
-        "selected" : false,
-        "cytoscape_alias_list" : [ "Aarauer Bierdeckel" ],
-        "canonicalName" : "Aarauer Bierdeckel",
-        "Milk" : "Raw cow's milk",
-        "Synonym" : "Kuentener",
-        "Quality" : 90,
-        "Type" : "Semi-soft",
-        "SUID" : 430,
-        "NodeType" : "Tracker",
-        "name" : "Aarauer Bierdeckel",
-        "Country" : "Switzerland",
-        "shared_name" : "Aarauer Bierdeckel"
-      },
-      "position" : {
-        "x" : 4491.9853515625,
-        "y" : 4520.1904296875
-      },
-      "selected" : false
-    }, {
-      "data" : {
+    "nodes" : [ {"data":{ "id" : "430","Strength" : 5,"selected" : false,"cytoscape_alias_list" : [ "Aarauer Bierdeckel" ],"canonicalName" : "Aarauer Bierdeckel","Milk" : "Raw cow's milk","Synonym" : "Kuentener","Quality" : 90,"Type" : "Semi-soft","SUID" : 430,"NodeType" : "Tracker","name" : "Aarauer Bierdeckel","Country" : "Switzerland","shared_name" : "Aarauer Bierdeckel"},"position" : {"x" : 4491.9853515625,"y" : 4520.1904296875},"selected" : false}, 
+    {"data" : {
         "id" : "429",
         "selected" : false,
         "cytoscape_alias_list" : [ "Bergues" ],

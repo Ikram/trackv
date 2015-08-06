@@ -11,7 +11,7 @@ $(function(){
   var graphP = $.ajax({
     //url: 'https://cdn.rawgit.com/maxkfranz/3d4d3c8eb808bd95bae7/raw', // wine-and-cheese.json
     //url: 'https://cdn.rawgit.com/Ikram/trackv/master/wine-and-cheese.json',
-    url: 'https://rawgit.com/Ikram/trackv/master/wine-and-cheese1.json',
+    url: 'https://rawgit.com/Ikram/trackv/master/wine-and-cheese.json',
     //url: 'http://localhost:8080/data/json/wine-and-cheese.json',
     type: 'GET',
     dataType: 'json'
