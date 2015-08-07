@@ -1,5 +1,5 @@
 {"format_version" : "1.0", "generated_by" : "cytoscape-3.2.0", "target_cytoscapejs_version" : "~2.1", "data" : {
-    "selected" : true, "__Annotations" : [ ], "shared_name" : "WineCheeseNetwork", "SUID" : 52, "name" : "WineCheeseNetwork" },
+    "selected" : true, "__Annotations" : [ ], "shared_name" : "WineCheeseNetwork", "SUID" : 0, "name" : "WineCheeseNetwork" },
   "elements" : {
     "nodes": [
     {
