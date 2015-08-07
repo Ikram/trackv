@@ -2373,7 +2373,7 @@
             "cytoscape_alias_list": [
                 "www.googletagmanager.com"
             ],
-            "Quality": 90,
+            "Quality": 290,
             "Milk": false
         }
     },
@@ -2423,7 +2423,7 @@
             "cytoscape_alias_list": [
                 "commondatastorage.googleapis.com"
             ],
-            "Quality": 90,
+            "Quality": 290,
             "Milk": false
         }
     },
@@ -3948,7 +3948,7 @@
             "cytoscape_alias_list": [
                 "www.google-analytics.com"
             ],
-            "Quality": 90,
+            "Quality": 490,
             "Milk": false
         }
     },
@@ -6498,7 +6498,7 @@
             "cytoscape_alias_list": [
                 "ssl.google-analytics.com"
             ],
-            "Quality": 90,
+            "Quality": 490,
             "Milk": false
         }
     },
@@ -8623,7 +8623,7 @@
             "cytoscape_alias_list": [
                 "google-analytics.com"
             ],
-            "Quality": 90,
+            "Quality": 490,
             "Milk": false
         }
     },
