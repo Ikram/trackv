@@ -2373,7 +2373,7 @@
             "cytoscape_alias_list": [
                 "www.googletagmanager.com"
             ],
-            "Quality": 290,
+            "Quality": 99,
             "Milk": false
         }
     },
@@ -2423,7 +2423,7 @@
             "cytoscape_alias_list": [
                 "commondatastorage.googleapis.com"
             ],
-            "Quality": 290,
+            "Quality": 99,
             "Milk": false
         }
     },
@@ -2648,7 +2648,7 @@
             "cytoscape_alias_list": [
                 "maps.googleapis.com"
             ],
-            "Quality": 90,
+            "Quality": 99,
             "Milk": false
         }
     },
@@ -3948,7 +3948,7 @@
             "cytoscape_alias_list": [
                 "www.google-analytics.com"
             ],
-            "Quality": 490,
+            "Quality": 99,
             "Milk": false
         }
     },
@@ -4623,7 +4623,7 @@
             "cytoscape_alias_list": [
                 "www.googletagservices.com"
             ],
-            "Quality": 90,
+            "Quality": 99,
             "Milk": false
         }
     },
@@ -4673,7 +4673,7 @@
             "cytoscape_alias_list": [
                 "apis.google.com"
             ],
-            "Quality": 90,
+            "Quality": 99,
             "Milk": false
         }
     },
@@ -6498,7 +6498,7 @@
             "cytoscape_alias_list": [
                 "ssl.google-analytics.com"
             ],
-            "Quality": 490,
+            "Quality": 99,
             "Milk": false
         }
     },
@@ -6998,7 +6998,7 @@
             "cytoscape_alias_list": [
                 "partner.googleadservices.com"
             ],
-            "Quality": 90,
+            "Quality": 99,
             "Milk": false
         }
     },
@@ -7023,7 +7023,7 @@
             "cytoscape_alias_list": [
                 "www.google.com"
             ],
-            "Quality": 90,
+            "Quality": 99,
             "Milk": false
         }
     },
@@ -7848,7 +7848,7 @@
             "cytoscape_alias_list": [
                 "ie7-js.googlecode.com"
             ],
-            "Quality": 90,
+            "Quality": 99,
             "Milk": false
         }
     },
@@ -8623,7 +8623,7 @@
             "cytoscape_alias_list": [
                 "google-analytics.com"
             ],
-            "Quality": 490,
+            "Quality": 99,
             "Milk": false
         }
     },
@@ -8998,7 +8998,7 @@
             "cytoscape_alias_list": [
                 "www.googleadservices.com"
             ],
-            "Quality": 90,
+            "Quality": 99,
             "Milk": false
         }
     },
@@ -9423,7 +9423,7 @@
             "cytoscape_alias_list": [
                 "pagead2.googlesyndication.com"
             ],
-            "Quality": 90,
+            "Quality": 99,
             "Milk": false
         }
     },
@@ -9773,7 +9773,7 @@
             "cytoscape_alias_list": [
                 "www.googlecommerce.com"
             ],
-            "Quality": 90,
+            "Quality": 99,
             "Milk": false
         }
     },
