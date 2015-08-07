@@ -9,7 +9,7 @@
         },
         "selected": false,
         "data": {
-            "Strength": 5,
+            "Strength": 50,
             "Synonym": false,
             "Country": false,
             "canonicalName": "about.com ",
@@ -34,7 +34,7 @@
         },
         "selected": false,
         "data": {
-            "Strength": 5,
+            "Strength": 50,
             "Synonym": false,
             "Country": false,
             "canonicalName": "addthis.com ",
@@ -84,7 +84,7 @@
         },
         "selected": false,
         "data": {
-            "Strength": 5,
+            "Strength": 50,
             "Synonym": false,
             "Country": false,
             "canonicalName": "amazon.com ",
@@ -159,7 +159,7 @@
         },
         "selected": false,
         "data": {
-            "Strength": 5,
+            "Strength": 50,
             "Synonym": false,
             "Country": false,
             "canonicalName": "backpackinglight.com ",
@@ -234,7 +234,7 @@
         },
         "selected": false,
         "data": {
-            "Strength": 5,
+            "Strength": 50,
             "Synonym": false,
             "Country": false,
             "canonicalName": "bbc.co.uk ",
