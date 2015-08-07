@@ -11504,7 +11504,7 @@
         {
             "data": {
                 "id": "245",
-                "Strength": 2,
+                "Strength": 1,
                 "selected": false,
                 "cytoscape_alias_list": [
                     "Pouligny-Saint-Pierre"
@@ -11529,7 +11529,7 @@
         {
             "data": {
                 "id": "244",
-                "Strength": false,
+                "Strength": 1,
                 "selected": false,
                 "cytoscape_alias_list": [
                     "Sancerrois"
@@ -11604,7 +11604,7 @@
         {
             "data": {
                 "id": "241",
-                "Strength": false,
+                "Strength": 1,
                 "selected": false,
                 "cytoscape_alias_list": [
                     "California Viognier"
@@ -15479,7 +15479,7 @@
         {
             "data": {
                 "id": "86",
-                "Strength": false,
+                "Strength": 1,
                 "selected": false,
                 "cytoscape_alias_list": [
                     "Triple Creme"
@@ -15529,7 +15529,7 @@
         {
             "data": {
                 "id": "84",
-                "Strength": false,
+                "Strength": 1,
                 "selected": false,
                 "cytoscape_alias_list": [
                     "Bayard Gourmand"
@@ -15554,7 +15554,7 @@
         {
             "data": {
                 "id": "83",
-                "Strength": false,
+                "Strength": 1,
                 "selected": false,
                 "cytoscape_alias_list": [
                     "Brique Fleurie"
