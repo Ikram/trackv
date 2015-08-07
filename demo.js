@@ -116,9 +116,9 @@ $(function(){
       data.NodeTypeFormatted = data.NodeType;
       
       if( data.NodeTypeFormatted === 'TopRankWebsite' ){
-        data.NodeTypeFormatted = 'Red Wine';
+        data.NodeTypeFormatted = 'Top Ranked Website';
       } else if( data.NodeTypeFormatted === 'LowRankWebsite' ){
-        data.NodeTypeFormatted = 'White Wine';
+        data.NodeTypeFormatted = 'Low Ranked Website';
       }
       
       n.data.orgPos = {
