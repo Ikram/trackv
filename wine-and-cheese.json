@@ -6879,7 +6879,7 @@
         ,{
             "data": {
                 "id": "430",
-                "Strength": 5,
+                "Strength": 50,
                 "selected": false,
                 "cytoscape_alias_list": [
                     "Aarauer Bierdeckel"
@@ -6887,7 +6887,7 @@
                 "canonicalName": "Aarauer Bierdeckel ",
                 "Milk": "Raw cow's milk",
                 "Synonym": "Kuentener",
-                "Quality": 90,
+                "Quality": 900,
                 "Type": "Semi-soft",
                 "SUID": 430,
                 "NodeType": "Tracker",
