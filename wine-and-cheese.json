@@ -1176,6 +1176,1181 @@
             "Quality": 90,
             "Milk": false
         }
+    },
+        {
+        "position": {
+            "y": 3858.38818359,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "mapquest.com ",
+            "Type": false,
+            "id": "47",
+            "NodeType": "LowRankWebsite",
+            "name": "mapquest.com",
+            "SUID": 47,
+            "shared_name": "mapquest.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "mapquest.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2422.72900391,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "microsoft.com ",
+            "Type": false,
+            "id": "48",
+            "NodeType": "LowRankWebsite",
+            "name": "microsoft.com",
+            "SUID": 48,
+            "shared_name": "microsoft.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "microsoft.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4217.30322266,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "miibeian.gov.cn ",
+            "Type": false,
+            "id": "49",
+            "NodeType": "LowRankWebsite",
+            "name": "miibeian.gov.cn",
+            "SUID": 49,
+            "shared_name": "miibeian.gov.cn",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "miibeian.gov.cn"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3200.37768555,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "mozilla.org ",
+            "Type": false,
+            "id": "50",
+            "NodeType": "LowRankWebsite",
+            "name": "mozilla.org",
+            "SUID": 50,
+            "shared_name": "mozilla.org",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "mozilla.org"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3080.73950195,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "msn.com ",
+            "Type": false,
+            "id": "51",
+            "NodeType": "LowRankWebsite",
+            "name": "msn.com",
+            "SUID": 51,
+            "shared_name": "msn.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "msn.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2841.46289062,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "myspace.com ",
+            "Type": false,
+            "id": "52",
+            "NodeType": "LowRankWebsite",
+            "name": "myspace.com",
+            "SUID": 52,
+            "shared_name": "myspace.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "myspace.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2542.3671875,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "netdania.com ",
+            "Type": false,
+            "id": "53",
+            "NodeType": "LowRankWebsite",
+            "name": "netdania.com",
+            "SUID": 53,
+            "shared_name": "netdania.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "netdania.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2183.45239258,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "networkadvertising.org ",
+            "Type": false,
+            "id": "54",
+            "NodeType": "LowRankWebsite",
+            "name": "networkadvertising.org",
+            "SUID": 54,
+            "shared_name": "networkadvertising.org",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "networkadvertising.org"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2063.81420898,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "nih.gov ",
+            "Type": false,
+            "id": "55",
+            "NodeType": "LowRankWebsite",
+            "name": "nih.gov",
+            "SUID": 55,
+            "shared_name": "nih.gov",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "nih.gov"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4456.58007812,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "nytimes.com ",
+            "Type": false,
+            "id": "56",
+            "NodeType": "LowRankWebsite",
+            "name": "nytimes.com",
+            "SUID": 56,
+            "shared_name": "nytimes.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "nytimes.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2602.1862793,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "patreon.com ",
+            "Type": false,
+            "id": "57",
+            "NodeType": "LowRankWebsite",
+            "name": "patreon.com",
+            "SUID": 57,
+            "shared_name": "patreon.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "patreon.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3140.55859375,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "petmountain.com ",
+            "Type": false,
+            "id": "58",
+            "NodeType": "LowRankWebsite",
+            "name": "petmountain.com",
+            "SUID": 58,
+            "shared_name": "petmountain.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "petmountain.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3559.29248047,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "photobucket.com ",
+            "Type": false,
+            "id": "59",
+            "NodeType": "LowRankWebsite",
+            "name": "photobucket.com",
+            "SUID": 59,
+            "shared_name": "photobucket.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "photobucket.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3020.92016602,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "pinterest.com ",
+            "Type": false,
+            "id": "60",
+            "NodeType": "LowRankWebsite",
+            "name": "pinterest.com",
+            "SUID": 60,
+            "shared_name": "pinterest.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "pinterest.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3439.65429688,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "popplet.com ",
+            "Type": false,
+            "id": "61",
+            "NodeType": "LowRankWebsite",
+            "name": "popplet.com",
+            "SUID": 61,
+            "shared_name": "popplet.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "popplet.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2123.63330078,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "pornhub.com ",
+            "Type": false,
+            "id": "62",
+            "NodeType": "LowRankWebsite",
+            "name": "pornhub.com",
+            "SUID": 62,
+            "shared_name": "pornhub.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "pornhub.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4157.484375,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "qq.com ",
+            "Type": false,
+            "id": "63",
+            "NodeType": "LowRankWebsite",
+            "name": "qq.com",
+            "SUID": 63,
+            "shared_name": "qq.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "qq.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2303.09082031,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "reddit.com ",
+            "Type": false,
+            "id": "64",
+            "NodeType": "LowRankWebsite",
+            "name": "reddit.com",
+            "SUID": 64,
+            "shared_name": "reddit.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "reddit.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4516.39892578,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "shaqirhussyin.com ",
+            "Type": false,
+            "id": "65",
+            "NodeType": "LowRankWebsite",
+            "name": "shaqirhussyin.com",
+            "SUID": 65,
+            "shared_name": "shaqirhussyin.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "shaqirhussyin.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3260.19677734,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "slatelady.com ",
+            "Type": false,
+            "id": "66",
+            "NodeType": "LowRankWebsite",
+            "name": "slatelady.com",
+            "SUID": 66,
+            "shared_name": "slatelady.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "slatelady.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3619.11157227,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "slideshare.net ",
+            "Type": false,
+            "id": "67",
+            "NodeType": "LowRankWebsite",
+            "name": "slideshare.net",
+            "SUID": 67,
+            "shared_name": "slideshare.net",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "slideshare.net"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3918.20727539,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "sniperforums.com ",
+            "Type": false,
+            "id": "68",
+            "NodeType": "LowRankWebsite",
+            "name": "sniperforums.com",
+            "SUID": 68,
+            "shared_name": "sniperforums.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "sniperforums.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2901.28198242,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "snobarons.com ",
+            "Type": false,
+            "id": "69",
+            "NodeType": "LowRankWebsite",
+            "name": "snobarons.com",
+            "SUID": 69,
+            "shared_name": "snobarons.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "snobarons.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2482.5480957,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "sourceforge.net ",
+            "Type": false,
+            "id": "70",
+            "NodeType": "LowRankWebsite",
+            "name": "sourceforge.net",
+            "SUID": 70,
+            "shared_name": "sourceforge.net",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "sourceforge.net"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3379.83496094,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "statcounter.com ",
+            "Type": false,
+            "id": "71",
+            "NodeType": "LowRankWebsite",
+            "name": "statcounter.com",
+            "SUID": 71,
+            "shared_name": "statcounter.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "statcounter.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2362.90991211,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "stumbleupon.com ",
+            "Type": false,
+            "id": "72",
+            "NodeType": "LowRankWebsite",
+            "name": "stumbleupon.com",
+            "SUID": 72,
+            "shared_name": "stumbleupon.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "stumbleupon.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4277.12255859,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "technorati.com ",
+            "Type": false,
+            "id": "73",
+            "NodeType": "LowRankWebsite",
+            "name": "technorati.com",
+            "SUID": 73,
+            "shared_name": "technorati.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "technorati.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4336.94140625,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "theguardian.com ",
+            "Type": false,
+            "id": "74",
+            "NodeType": "LowRankWebsite",
+            "name": "theguardian.com",
+            "SUID": 74,
+            "shared_name": "theguardian.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "theguardian.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3738.74975586,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "think.tv ",
+            "Type": false,
+            "id": "75",
+            "NodeType": "LowRankWebsite",
+            "name": "think.tv",
+            "SUID": 75,
+            "shared_name": "think.tv",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "think.tv"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4396.76074219,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "tinyurl.com ",
+            "Type": false,
+            "id": "76",
+            "NodeType": "LowRankWebsite",
+            "name": "tinyurl.com",
+            "SUID": 76,
+            "shared_name": "tinyurl.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "tinyurl.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3978.02636719,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "tripod.com ",
+            "Type": false,
+            "id": "77",
+            "NodeType": "LowRankWebsite",
+            "name": "tripod.com",
+            "SUID": 77,
+            "shared_name": "tripod.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "tripod.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2961.10107422,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "tumblr.com ",
+            "Type": false,
+            "id": "78",
+            "NodeType": "LowRankWebsite",
+            "name": "tumblr.com",
+            "SUID": 78,
+            "shared_name": "tumblr.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "tumblr.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3798.56884766,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "twitter.com ",
+            "Type": false,
+            "id": "79",
+            "NodeType": "LowRankWebsite",
+            "name": "twitter.com",
+            "SUID": 79,
+            "shared_name": "twitter.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "twitter.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4755.67529297,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "typepad.com ",
+            "Type": false,
+            "id": "80",
+            "NodeType": "LowRankWebsite",
+            "name": "typepad.com",
+            "SUID": 80,
+            "shared_name": "typepad.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "typepad.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4097.66503906,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "vimeo.com ",
+            "Type": false,
+            "id": "81",
+            "NodeType": "LowRankWebsite",
+            "name": "vimeo.com",
+            "SUID": 81,
+            "shared_name": "vimeo.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "vimeo.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2662.00561523,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "vk.com ",
+            "Type": false,
+            "id": "82",
+            "NodeType": "LowRankWebsite",
+            "name": "vk.com",
+            "SUID": 82,
+            "shared_name": "vk.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "vk.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4695.85644531,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "w3.org ",
+            "Type": false,
+            "id": "83",
+            "NodeType": "LowRankWebsite",
+            "name": "w3.org",
+            "SUID": 83,
+            "shared_name": "w3.org",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "w3.org"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3320.01586914,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "webs.com ",
+            "Type": false,
+            "id": "84",
+            "NodeType": "LowRankWebsite",
+            "name": "webs.com",
+            "SUID": 84,
+            "shared_name": "webs.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "webs.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4576.21826172,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "weebly.com ",
+            "Type": false,
+            "id": "85",
+            "NodeType": "LowRankWebsite",
+            "name": "weebly.com",
+            "SUID": 85,
+            "shared_name": "weebly.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "weebly.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2721.82470703,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "wikipedia.org ",
+            "Type": false,
+            "id": "86",
+            "NodeType": "LowRankWebsite",
+            "name": "wikipedia.org",
+            "SUID": 86,
+            "shared_name": "wikipedia.org",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "wikipedia.org"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4815.49462891,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "wix.com ",
+            "Type": false,
+            "id": "87",
+            "NodeType": "LowRankWebsite",
+            "name": "wix.com",
+            "SUID": 87,
+            "shared_name": "wix.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "wix.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2781.64355469,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "wordpress.com ",
+            "Type": false,
+            "id": "88",
+            "NodeType": "LowRankWebsite",
+            "name": "wordpress.com",
+            "SUID": 88,
+            "shared_name": "wordpress.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "wordpress.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2243.27148438,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "xhamster.com ",
+            "Type": false,
+            "id": "89",
+            "NodeType": "LowRankWebsite",
+            "name": "xhamster.com",
+            "SUID": 89,
+            "shared_name": "xhamster.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "xhamster.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4636.03710938,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "yahoo.co.jp ",
+            "Type": false,
+            "id": "90",
+            "NodeType": "LowRankWebsite",
+            "name": "yahoo.co.jp",
+            "SUID": 90,
+            "shared_name": "yahoo.co.jp",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "yahoo.co.jp"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3678.93066406,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "yahoo.com ",
+            "Type": false,
+            "id": "91",
+            "NodeType": "LowRankWebsite",
+            "name": "yahoo.com",
+            "SUID": 91,
+            "shared_name": "yahoo.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "yahoo.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4037.84594727,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "yandex.ru ",
+            "Type": false,
+            "id": "92",
+            "NodeType": "LowRankWebsite",
+            "name": "yandex.ru",
+            "SUID": 92,
+            "shared_name": "yandex.ru",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "yandex.ru"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3499.47314453,
+            "x": 6593.2421875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "youtube.com ",
+            "Type": false,
+            "id": "93",
+            "NodeType": "LowRankWebsite",
+            "name": "youtube.com",
+            "SUID": 93,
+            "shared_name": "youtube.com",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "youtube.com"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
     }
 ],
     "edges": [
