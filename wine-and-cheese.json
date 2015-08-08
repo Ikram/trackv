@@ -10926,6 +10926,4731 @@
             "Quality": 90,
             "Milk": false
         }
+    },
+        {
+        "position": {
+            "y": 4013.478135178162,
+            "x": 5229.167036605111
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Exelator ",
+            "Type": false,
+            "id": "471",
+            "NodeType": "Tracker",
+            "name": "Exelator",
+            "SUID": 471,
+            "shared_name": "Exelator",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Exelator"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3527.6546967132217,
+            "x": 5890.417591228032
+        },
+        "selected": false,
+        "data": {
+            "Strength": 25,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Googleadservices ",
+            "Type": false,
+            "id": "612",
+            "NodeType": "Tracker",
+            "name": "Googleadservices",
+            "SUID": 612,
+            "shared_name": "Googleadservices",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Googleadservices"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2620.090623007246,
+            "x": 5520.150919878624
+        },
+        "selected": false,
+        "data": {
+            "Strength": 10,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Revsci ",
+            "Type": false,
+            "id": "584",
+            "NodeType": "Tracker",
+            "name": "Revsci",
+            "SUID": 584,
+            "shared_name": "Revsci",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Revsci"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3555.0258668937995,
+            "x": 6425.477630450605
+        },
+        "selected": false,
+        "data": {
+            "Strength": 14,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Wsimg ",
+            "Type": false,
+            "id": "515",
+            "NodeType": "Tracker",
+            "name": "Wsimg",
+            "SUID": 515,
+            "shared_name": "Wsimg",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Wsimg"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3630.851729303622,
+            "x": 5730.900905155735
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Outbrain ",
+            "Type": false,
+            "id": "592",
+            "NodeType": "Tracker",
+            "name": "Outbrain",
+            "SUID": 592,
+            "shared_name": "Outbrain",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Outbrain"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3432.6648317278605,
+            "x": 5601.697471274543
+        },
+        "selected": false,
+        "data": {
+            "Strength": 21,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Googleapis ",
+            "Type": false,
+            "id": "608",
+            "NodeType": "Tracker",
+            "name": "Googleapis",
+            "SUID": 608,
+            "shared_name": "Googleapis",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Googleapis"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2325.7743313178107,
+            "x": 4484.65807279949
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "4dsply ",
+            "Type": false,
+            "id": "521",
+            "NodeType": "Tracker",
+            "name": "4dsply",
+            "SUID": 521,
+            "shared_name": "4dsply",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "4dsply"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4660.802906453796,
+            "x": 4499.685208028763
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Imrworldwide ",
+            "Type": false,
+            "id": "565",
+            "NodeType": "Tracker",
+            "name": "Imrworldwide",
+            "SUID": 565,
+            "shared_name": "Imrworldwide",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Imrworldwide"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2483.153503045598,
+            "x": 3543.7060074801307
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Digicert ",
+            "Type": false,
+            "id": "532",
+            "NodeType": "Tracker",
+            "name": "Digicert",
+            "SUID": 532,
+            "shared_name": "Digicert",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Digicert"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4384.455905714273,
+            "x": 4951.044427914206
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Criteo ",
+            "Type": false,
+            "id": "454",
+            "NodeType": "Tracker",
+            "name": "Criteo",
+            "SUID": 454,
+            "shared_name": "Criteo",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Criteo"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2227.355198770131,
+            "x": 1748.3373333552363
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Korrelate ",
+            "Type": false,
+            "id": "607",
+            "NodeType": "Tracker",
+            "name": "Korrelate",
+            "SUID": 607,
+            "shared_name": "Korrelate",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Korrelate"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2801.199589893919,
+            "x": 2140.5838442632385
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Visualrevenue ",
+            "Type": false,
+            "id": "559",
+            "NodeType": "Tracker",
+            "name": "Visualrevenue",
+            "SUID": 559,
+            "shared_name": "Visualrevenue",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Visualrevenue"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4693.166026377391,
+            "x": 2351.762386093144
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Grvcdn ",
+            "Type": false,
+            "id": "500",
+            "NodeType": "Tracker",
+            "name": "Grvcdn",
+            "SUID": 500,
+            "shared_name": "Grvcdn",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Grvcdn"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4564.443700517083,
+            "x": 6428.602987688841
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Zondervan ",
+            "Type": false,
+            "id": "625",
+            "NodeType": "Tracker",
+            "name": "Zondervan",
+            "SUID": 625,
+            "shared_name": "Zondervan",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Zondervan"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2663.450714547063,
+            "x": 4141.813373744755
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Sharethis ",
+            "Type": false,
+            "id": "543",
+            "NodeType": "Tracker",
+            "name": "Sharethis",
+            "SUID": 543,
+            "shared_name": "Sharethis",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Sharethis"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2833.070132504992,
+            "x": 2157.8693939444565
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Smartling ",
+            "Type": false,
+            "id": "643",
+            "NodeType": "Tracker",
+            "name": "Smartling",
+            "SUID": 643,
+            "shared_name": "Smartling",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Smartling"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2918.759548954657,
+            "x": 2105.64679342838
+        },
+        "selected": false,
+        "data": {
+            "Strength": 7,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Huffpost ",
+            "Type": false,
+            "id": "646",
+            "NodeType": "Tracker",
+            "name": "Huffpost",
+            "SUID": 646,
+            "shared_name": "Huffpost",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Huffpost"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2810.828233706581,
+            "x": 5855.574234657197
+        },
+        "selected": false,
+        "data": {
+            "Strength": 8,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Wp ",
+            "Type": false,
+            "id": "560",
+            "NodeType": "Tracker",
+            "name": "Wp",
+            "SUID": 560,
+            "shared_name": "Wp",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Wp"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4433.67096929776,
+            "x": 6466.818458952086
+        },
+        "selected": false,
+        "data": {
+            "Strength": 4,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Yastatic ",
+            "Type": false,
+            "id": "623",
+            "NodeType": "Tracker",
+            "name": "Yastatic",
+            "SUID": 623,
+            "shared_name": "Yastatic",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Yastatic"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3791.4597914099595,
+            "x": 1531.54464927979
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Rubiconproject ",
+            "Type": false,
+            "id": "633",
+            "NodeType": "Tracker",
+            "name": "Rubiconproject",
+            "SUID": 633,
+            "shared_name": "Rubiconproject",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Rubiconproject"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4737.110301833149,
+            "x": 4402.7795300651305
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Msecnd ",
+            "Type": false,
+            "id": "538",
+            "NodeType": "Tracker",
+            "name": "Msecnd",
+            "SUID": 538,
+            "shared_name": "Msecnd",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Msecnd"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3387.292073152911,
+            "x": 3486.0451778676743
+        },
+        "selected": false,
+        "data": {
+            "Strength": 11,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Lisabloom ",
+            "Type": false,
+            "id": "634",
+            "NodeType": "Tracker",
+            "name": "Lisabloom",
+            "SUID": 634,
+            "shared_name": "Lisabloom",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Lisabloom"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3704.449928445814,
+            "x": 4591.106470569641
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Ok ",
+            "Type": false,
+            "id": "545",
+            "NodeType": "Tracker",
+            "name": "Ok",
+            "SUID": 545,
+            "shared_name": "Ok",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Ok"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3165.001713368195,
+            "x": 4479.187395693731
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Exponential ",
+            "Type": false,
+            "id": "600",
+            "NodeType": "Tracker",
+            "name": "Exponential",
+            "SUID": 600,
+            "shared_name": "Exponential",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Exponential"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3370.640146426833,
+            "x": 2317.424993433208
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Pornhub ",
+            "Type": false,
+            "id": "620",
+            "NodeType": "Tracker",
+            "name": "Pornhub",
+            "SUID": 620,
+            "shared_name": "Pornhub",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Pornhub"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2453.899501949014,
+            "x": 5647.952915006439
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Adap ",
+            "Type": false,
+            "id": "459",
+            "NodeType": "Tracker",
+            "name": "Adap",
+            "SUID": 459,
+            "shared_name": "Adap",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Adap"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2652.951209985642,
+            "x": 1692.478104148716
+        },
+        "selected": false,
+        "data": {
+            "Strength": 14,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Quantserve ",
+            "Type": false,
+            "id": "566",
+            "NodeType": "Tracker",
+            "name": "Quantserve",
+            "SUID": 566,
+            "shared_name": "Quantserve",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Quantserve"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2905.770032687262,
+            "x": 2485.635890769652
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Livejournal ",
+            "Type": false,
+            "id": "617",
+            "NodeType": "Tracker",
+            "name": "Livejournal",
+            "SUID": 617,
+            "shared_name": "Livejournal",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Livejournal"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2638.3720240312678,
+            "x": 2078.1237440534696
+        },
+        "selected": false,
+        "data": {
+            "Strength": 6,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Amazon-adsystem ",
+            "Type": false,
+            "id": "564",
+            "NodeType": "Tracker",
+            "name": "Amazon-adsystem",
+            "SUID": 564,
+            "shared_name": "Amazon-adsystem",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Amazon-adsystem"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4063.4679736653143,
+            "x": 6186.808718846827
+        },
+        "selected": false,
+        "data": {
+            "Strength": 11,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Jimstatic ",
+            "Type": false,
+            "id": "540",
+            "NodeType": "Tracker",
+            "name": "Jimstatic",
+            "SUID": 540,
+            "shared_name": "Jimstatic",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Jimstatic"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2823.7561777855017,
+            "x": 2080.789068264654
+        },
+        "selected": false,
+        "data": {
+            "Strength": 4,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "2mdn ",
+            "Type": false,
+            "id": "548",
+            "NodeType": "Tracker",
+            "name": "2mdn",
+            "SUID": 548,
+            "shared_name": "2mdn",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "2mdn"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4723.220172906134,
+            "x": 6154.405033339965
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Mixpanel ",
+            "Type": false,
+            "id": "483",
+            "NodeType": "Tracker",
+            "name": "Mixpanel",
+            "SUID": 483,
+            "shared_name": "Mixpanel",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Mixpanel"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3602.2775929313557,
+            "x": 4291.635579121789
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Thebrighttag ",
+            "Type": false,
+            "id": "597",
+            "NodeType": "Tracker",
+            "name": "Thebrighttag",
+            "SUID": 597,
+            "shared_name": "Thebrighttag",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Thebrighttag"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2688.0843761475353,
+            "x": 5236.360881785264
+        },
+        "selected": false,
+        "data": {
+            "Strength": 4,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Slidesharecdn ",
+            "Type": false,
+            "id": "501",
+            "NodeType": "Tracker",
+            "name": "Slidesharecdn",
+            "SUID": 501,
+            "shared_name": "Slidesharecdn",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Slidesharecdn"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3835.5333762694945,
+            "x": 6212.922858602775
+        },
+        "selected": false,
+        "data": {
+            "Strength": 15,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Pubmatic ",
+            "Type": false,
+            "id": "478",
+            "NodeType": "Tracker",
+            "name": "Pubmatic",
+            "SUID": 478,
+            "shared_name": "Pubmatic",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Pubmatic"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2896.029791770098,
+            "x": 2047.234670253947
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Komoona ",
+            "Type": false,
+            "id": "498",
+            "NodeType": "Tracker",
+            "name": "Komoona",
+            "SUID": 498,
+            "shared_name": "Komoona",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Komoona"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2711.2997831724188,
+            "x": 3031.4132095862133
+        },
+        "selected": false,
+        "data": {
+            "Strength": 4,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "S-microsoft ",
+            "Type": false,
+            "id": "510",
+            "NodeType": "Tracker",
+            "name": "S-microsoft",
+            "SUID": 510,
+            "shared_name": "S-microsoft",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "S-microsoft"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3942.6987724315704,
+            "x": 5451.563197557585
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Ml314 ",
+            "Type": false,
+            "id": "485",
+            "NodeType": "Tracker",
+            "name": "Ml314",
+            "SUID": 485,
+            "shared_name": "Ml314",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Ml314"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3176.3911745734486,
+            "x": 3279.4190407107244
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Effectivemeasure ",
+            "Type": false,
+            "id": "606",
+            "NodeType": "Tracker",
+            "name": "Effectivemeasure",
+            "SUID": 606,
+            "shared_name": "Effectivemeasure",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Effectivemeasure"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3603.092702240982,
+            "x": 1704.3484681124546
+        },
+        "selected": false,
+        "data": {
+            "Strength": 13,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Gstatic ",
+            "Type": false,
+            "id": "488",
+            "NodeType": "Tracker",
+            "name": "Gstatic",
+            "SUID": 488,
+            "shared_name": "Gstatic",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Gstatic"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2464.370215944938,
+            "x": 1747.7132731199645
+        },
+        "selected": false,
+        "data": {
+            "Strength": 14,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Scorecardresearch ",
+            "Type": false,
+            "id": "470",
+            "NodeType": "Tracker",
+            "name": "Scorecardresearch",
+            "SUID": 470,
+            "shared_name": "Scorecardresearch",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Scorecardresearch"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4670.761524391238,
+            "x": 4151.149359089433
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "W3 ",
+            "Type": false,
+            "id": "561",
+            "NodeType": "Tracker",
+            "name": "W3",
+            "SUID": 561,
+            "shared_name": "W3",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "W3"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4369.72272364184,
+            "x": 1588.1917329777991
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Yandex ",
+            "Type": false,
+            "id": "497",
+            "NodeType": "Tracker",
+            "name": "Yandex",
+            "SUID": 497,
+            "shared_name": "Yandex",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Yandex"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4487.604802552878,
+            "x": 4402.40373020217
+        },
+        "selected": false,
+        "data": {
+            "Strength": 16,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Typepad ",
+            "Type": false,
+            "id": "525",
+            "NodeType": "Tracker",
+            "name": "Typepad",
+            "SUID": 525,
+            "shared_name": "Typepad",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Typepad"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4710.916340445134,
+            "x": 2509.3627107940547
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Redditstatic ",
+            "Type": false,
+            "id": "586",
+            "NodeType": "Tracker",
+            "name": "Redditstatic",
+            "SUID": 586,
+            "shared_name": "Redditstatic",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Redditstatic"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4219.215227554418,
+            "x": 3029.193398247041
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Demandbase ",
+            "Type": false,
+            "id": "455",
+            "NodeType": "Tracker",
+            "name": "Demandbase",
+            "SUID": 455,
+            "shared_name": "Demandbase",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Demandbase"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4112.187285129151,
+            "x": 2976.9614654893385
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Assoc-amazon ",
+            "Type": false,
+            "id": "535",
+            "NodeType": "Tracker",
+            "name": "Assoc-amazon",
+            "SUID": 535,
+            "shared_name": "Assoc-amazon",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Assoc-amazon"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2684.720668702909,
+            "x": 6576.277728833957
+        },
+        "selected": false,
+        "data": {
+            "Strength": 9,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Googletagmanager ",
+            "Type": false,
+            "id": "458",
+            "NodeType": "Tracker",
+            "name": "Googletagmanager",
+            "SUID": 458,
+            "shared_name": "Googletagmanager",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Googletagmanager"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4129.098001055946,
+            "x": 5868.076615386921
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Pxlad ",
+            "Type": false,
+            "id": "467",
+            "NodeType": "Tracker",
+            "name": "Pxlad",
+            "SUID": 467,
+            "shared_name": "Pxlad",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Pxlad"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3598.572920552849,
+            "x": 3901.8810233262484
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Pinterest ",
+            "Type": false,
+            "id": "526",
+            "NodeType": "Tracker",
+            "name": "Pinterest",
+            "SUID": 526,
+            "shared_name": "Pinterest",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Pinterest"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4591.164430925169,
+            "x": 3338.9362727165962
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Gravity ",
+            "Type": false,
+            "id": "502",
+            "NodeType": "Tracker",
+            "name": "Gravity",
+            "SUID": 502,
+            "shared_name": "Gravity",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Gravity"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3522.8730599198825,
+            "x": 5355.898846060805
+        },
+        "selected": false,
+        "data": {
+            "Strength": 19,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Phncdn ",
+            "Type": false,
+            "id": "553",
+            "NodeType": "Tracker",
+            "name": "Phncdn",
+            "SUID": 553,
+            "shared_name": "Phncdn",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Phncdn"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4554.544455176674,
+            "x": 2033.9736371384456
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Errorception ",
+            "Type": false,
+            "id": "493",
+            "NodeType": "Tracker",
+            "name": "Errorception",
+            "SUID": 493,
+            "shared_name": "Errorception",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Errorception"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2593.516966618066,
+            "x": 4869.837506638141
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Proxad ",
+            "Type": false,
+            "id": "460",
+            "NodeType": "Tracker",
+            "name": "Proxad",
+            "SUID": 460,
+            "shared_name": "Proxad",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Proxad"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3584.5099551760864,
+            "x": 6336.8142664336665
+        },
+        "selected": false,
+        "data": {
+            "Strength": 24,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Googlesyndication ",
+            "Type": false,
+            "id": "461",
+            "NodeType": "Tracker",
+            "name": "Googlesyndication",
+            "SUID": 461,
+            "shared_name": "Googlesyndication",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Googlesyndication"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4732.164925662476,
+            "x": 3451.880310594275
+        },
+        "selected": false,
+        "data": {
+            "Strength": 12,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Nytimes ",
+            "Type": false,
+            "id": "479",
+            "NodeType": "Tracker",
+            "name": "Nytimes",
+            "SUID": 479,
+            "shared_name": "Nytimes",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Nytimes"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4062.940655588928,
+            "x": 3326.9246329778643
+        },
+        "selected": false,
+        "data": {
+            "Strength": 11,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Googletagservices ",
+            "Type": false,
+            "id": "595",
+            "NodeType": "Tracker",
+            "name": "Googletagservices",
+            "SUID": 595,
+            "shared_name": "Googletagservices",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Googletagservices"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4220.514790333841,
+            "x": 5329.604487428562
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Ca-mpr ",
+            "Type": false,
+            "id": "448",
+            "NodeType": "Tracker",
+            "name": "Ca-mpr",
+            "SUID": 448,
+            "shared_name": "Ca-mpr",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Ca-mpr"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3059.9795351288035,
+            "x": 4167.383124703527
+        },
+        "selected": false,
+        "data": {
+            "Strength": 9,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Optimizely ",
+            "Type": false,
+            "id": "567",
+            "NodeType": "Tracker",
+            "name": "Optimizely",
+            "SUID": 567,
+            "shared_name": "Optimizely",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Optimizely"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3561.763043525948,
+            "x": 3197.9806012044896
+        },
+        "selected": false,
+        "data": {
+            "Strength": 7,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Adroll ",
+            "Type": false,
+            "id": "569",
+            "NodeType": "Tracker",
+            "name": "Adroll",
+            "SUID": 569,
+            "shared_name": "Adroll",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Adroll"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3050.3922976041295,
+            "x": 5453.627498842918
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Cloudfront ",
+            "Type": false,
+            "id": "642",
+            "NodeType": "Tracker",
+            "name": "Cloudfront",
+            "SUID": 642,
+            "shared_name": "Cloudfront",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Cloudfront"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2382.403780669141,
+            "x": 6092.936836772333
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Saymedia ",
+            "Type": false,
+            "id": "554",
+            "NodeType": "Tracker",
+            "name": "Saymedia",
+            "SUID": 554,
+            "shared_name": "Saymedia",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Saymedia"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4605.636132787245,
+            "x": 2829.8156329873823
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Networkadvertising ",
+            "Type": false,
+            "id": "609",
+            "NodeType": "Tracker",
+            "name": "Networkadvertising",
+            "SUID": 609,
+            "shared_name": "Networkadvertising",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Networkadvertising"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2880.3712498902914,
+            "x": 1656.2298261059648
+        },
+        "selected": false,
+        "data": {
+            "Strength": 4,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Aspnetcdn ",
+            "Type": false,
+            "id": "546",
+            "NodeType": "Tracker",
+            "name": "Aspnetcdn",
+            "SUID": 546,
+            "shared_name": "Aspnetcdn",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Aspnetcdn"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2176.0853590030515,
+            "x": 2120.660957349767
+        },
+        "selected": false,
+        "data": {
+            "Strength": 18,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Facebook ",
+            "Type": false,
+            "id": "476",
+            "NodeType": "Tracker",
+            "name": "Facebook",
+            "SUID": 476,
+            "shared_name": "Facebook",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Facebook"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2954.762197052196,
+            "x": 5676.849533240214
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Clicktale ",
+            "Type": false,
+            "id": "631",
+            "NodeType": "Tracker",
+            "name": "Clicktale",
+            "SUID": 631,
+            "shared_name": "Clicktale",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Clicktale"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2774.9118016257744,
+            "x": 6017.7388349679295
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Disqus ",
+            "Type": false,
+            "id": "443",
+            "NodeType": "Tracker",
+            "name": "Disqus",
+            "SUID": 443,
+            "shared_name": "Disqus",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Disqus"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4671.417526125179,
+            "x": 5809.9569333839845
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "3lift ",
+            "Type": false,
+            "id": "445",
+            "NodeType": "Tracker",
+            "name": "3lift",
+            "SUID": 445,
+            "shared_name": "3lift",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "3lift"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4508.921190601215,
+            "x": 2490.8084153616373
+        },
+        "selected": false,
+        "data": {
+            "Strength": 6,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Mqcdn ",
+            "Type": false,
+            "id": "591",
+            "NodeType": "Tracker",
+            "name": "Mqcdn",
+            "SUID": 591,
+            "shared_name": "Mqcdn",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Mqcdn"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3740.1532945552435,
+            "x": 2073.006354994068
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Vindicosuite ",
+            "Type": false,
+            "id": "475",
+            "NodeType": "Tracker",
+            "name": "Vindicosuite",
+            "SUID": 475,
+            "shared_name": "Vindicosuite",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Vindicosuite"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2365.972421802353,
+            "x": 4032.6254923046436
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Xhamster ",
+            "Type": false,
+            "id": "531",
+            "NodeType": "Tracker",
+            "name": "Xhamster",
+            "SUID": 531,
+            "shared_name": "Xhamster",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Xhamster"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4189.39693900008,
+            "x": 1803.1345337092341
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Sonobi ",
+            "Type": false,
+            "id": "621",
+            "NodeType": "Tracker",
+            "name": "Sonobi",
+            "SUID": 621,
+            "shared_name": "Sonobi",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Sonobi"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3208.579345499861,
+            "x": 3381.961503725832
+        },
+        "selected": false,
+        "data": {
+            "Strength": 10,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Aolcdn ",
+            "Type": false,
+            "id": "645",
+            "NodeType": "Tracker",
+            "name": "Aolcdn",
+            "SUID": 645,
+            "shared_name": "Aolcdn",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Aolcdn"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4203.556041600736,
+            "x": 5403.991365323318
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Youtube ",
+            "Type": false,
+            "id": "599",
+            "NodeType": "Tracker",
+            "name": "Youtube",
+            "SUID": 599,
+            "shared_name": "Youtube",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Youtube"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4652.159756588788,
+            "x": 1524.9792624752406
+        },
+        "selected": false,
+        "data": {
+            "Strength": 4,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Pbsrc ",
+            "Type": false,
+            "id": "487",
+            "NodeType": "Tracker",
+            "name": "Pbsrc",
+            "SUID": 487,
+            "shared_name": "Pbsrc",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Pbsrc"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2345.903138619684,
+            "x": 5009.68681081473
+        },
+        "selected": false,
+        "data": {
+            "Strength": 22,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Shaqirhussyin ",
+            "Type": false,
+            "id": "580",
+            "NodeType": "Tracker",
+            "name": "Shaqirhussyin",
+            "SUID": 580,
+            "shared_name": "Shaqirhussyin",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Shaqirhussyin"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4520.677717652467,
+            "x": 2132.799787073026
+        },
+        "selected": false,
+        "data": {
+            "Strength": 4,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Compete ",
+            "Type": false,
+            "id": "520",
+            "NodeType": "Tracker",
+            "name": "Compete",
+            "SUID": 520,
+            "shared_name": "Compete",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Compete"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4785.687448064346,
+            "x": 4832.837773989451
+        },
+        "selected": false,
+        "data": {
+            "Strength": 7,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Media-imdb ",
+            "Type": false,
+            "id": "574",
+            "NodeType": "Tracker",
+            "name": "Media-imdb",
+            "SUID": 574,
+            "shared_name": "Media-imdb",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Media-imdb"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4041.665528188606,
+            "x": 1988.5900152605664
+        },
+        "selected": false,
+        "data": {
+            "Strength": 72,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Google-analytics ",
+            "Type": false,
+            "id": "635",
+            "NodeType": "Tracker",
+            "name": "Google-analytics",
+            "SUID": 635,
+            "shared_name": "Google-analytics",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Google-analytics"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4115.016614643762,
+            "x": 4764.025591947595
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Microsoft ",
+            "Type": false,
+            "id": "486",
+            "NodeType": "Tracker",
+            "name": "Microsoft",
+            "SUID": 486,
+            "shared_name": "Microsoft",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Microsoft"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3212.9050422453456,
+            "x": 4137.166198902171
+        },
+        "selected": false,
+        "data": {
+            "Strength": 19,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Krxd ",
+            "Type": false,
+            "id": "577",
+            "NodeType": "Tracker",
+            "name": "Krxd",
+            "SUID": 577,
+            "shared_name": "Krxd",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Krxd"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4091.7853686921453,
+            "x": 2925.7736713482404
+        },
+        "selected": false,
+        "data": {
+            "Strength": 6,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Ytimg ",
+            "Type": false,
+            "id": "587",
+            "NodeType": "Tracker",
+            "name": "Ytimg",
+            "SUID": 587,
+            "shared_name": "Ytimg",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Ytimg"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4044.194704564863,
+            "x": 5733.801837924293
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Cedexis-test ",
+            "Type": false,
+            "id": "605",
+            "NodeType": "Tracker",
+            "name": "Cedexis-test",
+            "SUID": 605,
+            "shared_name": "Cedexis-test",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Cedexis-test"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4661.164042231048,
+            "x": 3745.3871853056626
+        },
+        "selected": false,
+        "data": {
+            "Strength": 65,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Netdania ",
+            "Type": false,
+            "id": "539",
+            "NodeType": "Tracker",
+            "name": "Netdania",
+            "SUID": 539,
+            "shared_name": "Netdania",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Netdania"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4745.071734976385,
+            "x": 6238.730731198764
+        },
+        "selected": false,
+        "data": {
+            "Strength": 10,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Omtrdc ",
+            "Type": false,
+            "id": "506",
+            "NodeType": "Tracker",
+            "name": "Omtrdc",
+            "SUID": 506,
+            "shared_name": "Omtrdc",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Omtrdc"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2411.987202093846,
+            "x": 5625.4981840861365
+        },
+        "selected": false,
+        "data": {
+            "Strength": 24,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Tumblr ",
+            "Type": false,
+            "id": "527",
+            "NodeType": "Tracker",
+            "name": "Tumblr",
+            "SUID": 527,
+            "shared_name": "Tumblr",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Tumblr"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2745.5418691166997,
+            "x": 3547.592540262909
+        },
+        "selected": false,
+        "data": {
+            "Strength": 11,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Websimages ",
+            "Type": false,
+            "id": "589",
+            "NodeType": "Tracker",
+            "name": "Websimages",
+            "SUID": 589,
+            "shared_name": "Websimages",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Websimages"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3053.32854470762,
+            "x": 3214.55016093127
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Owneriq ",
+            "Type": false,
+            "id": "644",
+            "NodeType": "Tracker",
+            "name": "Owneriq",
+            "SUID": 644,
+            "shared_name": "Owneriq",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Owneriq"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4420.146587914836,
+            "x": 3513.2982587295733
+        },
+        "selected": false,
+        "data": {
+            "Strength": 13,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Newrelic ",
+            "Type": false,
+            "id": "614",
+            "NodeType": "Tracker",
+            "name": "Newrelic",
+            "SUID": 614,
+            "shared_name": "Newrelic",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Newrelic"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3773.086073765786,
+            "x": 6495.858414757306
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Postaffiliatepro ",
+            "Type": false,
+            "id": "513",
+            "NodeType": "Tracker",
+            "name": "Postaffiliatepro",
+            "SUID": 513,
+            "shared_name": "Postaffiliatepro",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Postaffiliatepro"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2398.2391299075275,
+            "x": 3313.986801920325
+        },
+        "selected": false,
+        "data": {
+            "Strength": 4,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Fsdn ",
+            "Type": false,
+            "id": "465",
+            "NodeType": "Tracker",
+            "name": "Fsdn",
+            "SUID": 465,
+            "shared_name": "Fsdn",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Fsdn"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3986.852667649626,
+            "x": 5225.04423186271
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Rambler ",
+            "Type": false,
+            "id": "496",
+            "NodeType": "Tracker",
+            "name": "Rambler",
+            "SUID": 496,
+            "shared_name": "Rambler",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Rambler"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3609.7431662420345,
+            "x": 3225.4740603010596
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Experian ",
+            "Type": false,
+            "id": "463",
+            "NodeType": "Tracker",
+            "name": "Experian",
+            "SUID": 463,
+            "shared_name": "Experian",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Experian"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4414.541290447405,
+            "x": 1705.6400146549795
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Usa ",
+            "Type": false,
+            "id": "575",
+            "NodeType": "Tracker",
+            "name": "Usa",
+            "SUID": 575,
+            "shared_name": "Usa",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Usa"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3379.976912162114,
+            "x": 4482.358040819299
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "S3 ",
+            "Type": false,
+            "id": "517",
+            "NodeType": "Tracker",
+            "name": "S3",
+            "SUID": 517,
+            "shared_name": "S3",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "S3"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4718.531000595424,
+            "x": 2902.8633410658294
+        },
+        "selected": false,
+        "data": {
+            "Strength": 15,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Adnxs ",
+            "Type": false,
+            "id": "491",
+            "NodeType": "Tracker",
+            "name": "Adnxs",
+            "SUID": 491,
+            "shared_name": "Adnxs",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Adnxs"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4417.72225594187,
+            "x": 3339.2458504564192
+        },
+        "selected": false,
+        "data": {
+            "Strength": 24,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Liveperson ",
+            "Type": false,
+            "id": "619",
+            "NodeType": "Tracker",
+            "name": "Liveperson",
+            "SUID": 619,
+            "shared_name": "Liveperson",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Liveperson"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2340.14519530075,
+            "x": 2895.8170249328814
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Ugdturner ",
+            "Type": false,
+            "id": "603",
+            "NodeType": "Tracker",
+            "name": "Ugdturner",
+            "SUID": 603,
+            "shared_name": "Ugdturner",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Ugdturner"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4447.982934662801,
+            "x": 3542.8183902721266
+        },
+        "selected": false,
+        "data": {
+            "Strength": 8,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Images-amazon ",
+            "Type": false,
+            "id": "551",
+            "NodeType": "Tracker",
+            "name": "Images-amazon",
+            "SUID": 551,
+            "shared_name": "Images-amazon",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Images-amazon"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2976.009843442536,
+            "x": 6040.684181337698
+        },
+        "selected": false,
+        "data": {
+            "Strength": 8,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Psbin ",
+            "Type": false,
+            "id": "544",
+            "NodeType": "Tracker",
+            "name": "Psbin",
+            "SUID": 544,
+            "shared_name": "Psbin",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Psbin"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4666.646749131283,
+            "x": 2234.9893433977077
+        },
+        "selected": false,
+        "data": {
+            "Strength": 24,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Netdna-cdn ",
+            "Type": false,
+            "id": "641",
+            "NodeType": "Tracker",
+            "name": "Netdna-cdn",
+            "SUID": 641,
+            "shared_name": "Netdna-cdn",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Netdna-cdn"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3297.1812282072597,
+            "x": 5752.185268844913
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Gsfn ",
+            "Type": false,
+            "id": "456",
+            "NodeType": "Tracker",
+            "name": "Gsfn",
+            "SUID": 456,
+            "shared_name": "Gsfn",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Gsfn"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4008.7302245227465,
+            "x": 2152.8667448391716
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Truste ",
+            "Type": false,
+            "id": "518",
+            "NodeType": "Tracker",
+            "name": "Truste",
+            "SUID": 518,
+            "shared_name": "Truste",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Truste"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2457.5553948210895,
+            "x": 1652.6428418790565
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Googlecommerce ",
+            "Type": false,
+            "id": "450",
+            "NodeType": "Tracker",
+            "name": "Googlecommerce",
+            "SUID": 450,
+            "shared_name": "Googlecommerce",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Googlecommerce"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4006.417543460914,
+            "x": 1732.483227468896
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Top100 ",
+            "Type": false,
+            "id": "611",
+            "NodeType": "Tracker",
+            "name": "Top100",
+            "SUID": 611,
+            "shared_name": "Top100",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Top100"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2801.2077622361917,
+            "x": 5049.155572353664
+        },
+        "selected": false,
+        "data": {
+            "Strength": 6,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Chartbeat ",
+            "Type": false,
+            "id": "556",
+            "NodeType": "Tracker",
+            "name": "Chartbeat",
+            "SUID": 556,
+            "shared_name": "Chartbeat",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Chartbeat"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2876.458845106579,
+            "x": 4859.979052729923
+        },
+        "selected": false,
+        "data": {
+            "Strength": 9,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Addthiscdn ",
+            "Type": false,
+            "id": "514",
+            "NodeType": "Tracker",
+            "name": "Addthiscdn",
+            "SUID": 514,
+            "shared_name": "Addthiscdn",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Addthiscdn"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3054.885615259207,
+            "x": 4611.438705540875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 11,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Ameba ",
+            "Type": false,
+            "id": "481",
+            "NodeType": "Tracker",
+            "name": "Ameba",
+            "SUID": 481,
+            "shared_name": "Ameba",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Ameba"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4024.023835317939,
+            "x": 2667.340264311555
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Mozilla ",
+            "Type": false,
+            "id": "523",
+            "NodeType": "Tracker",
+            "name": "Mozilla",
+            "SUID": 523,
+            "shared_name": "Mozilla",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Mozilla"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2621.5277095878464,
+            "x": 3630.036681895896
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Yahoo ",
+            "Type": false,
+            "id": "555",
+            "NodeType": "Tracker",
+            "name": "Yahoo",
+            "SUID": 555,
+            "shared_name": "Yahoo",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Yahoo"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2380.3888879393385,
+            "x": 2885.363535337676
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Typekit ",
+            "Type": false,
+            "id": "542",
+            "NodeType": "Tracker",
+            "name": "Typekit",
+            "SUID": 542,
+            "shared_name": "Typekit",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Typekit"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4636.5860141319845,
+            "x": 3199.768976822913
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Appspot ",
+            "Type": false,
+            "id": "484",
+            "NodeType": "Tracker",
+            "name": "Appspot",
+            "SUID": 484,
+            "shared_name": "Appspot",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Appspot"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3697.0074147099117,
+            "x": 4122.660062393174
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Parastorage ",
+            "Type": false,
+            "id": "639",
+            "NodeType": "Tracker",
+            "name": "Parastorage",
+            "SUID": 639,
+            "shared_name": "Parastorage",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Parastorage"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3649.3152212593077,
+            "x": 3739.1469201410036
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Atdmt ",
+            "Type": false,
+            "id": "446",
+            "NodeType": "Tracker",
+            "name": "Atdmt",
+            "SUID": 446,
+            "shared_name": "Atdmt",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Atdmt"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2733.054565741109,
+            "x": 2049.9863613533257
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Bkrtx ",
+            "Type": false,
+            "id": "516",
+            "NodeType": "Tracker",
+            "name": "Bkrtx",
+            "SUID": 516,
+            "shared_name": "Bkrtx",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Bkrtx"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2342.9343710110106,
+            "x": 1554.0127036111273
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Adsonar ",
+            "Type": false,
+            "id": "444",
+            "NodeType": "Tracker",
+            "name": "Adsonar",
+            "SUID": 444,
+            "shared_name": "Adsonar",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Adsonar"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3907.41510503048,
+            "x": 3934.293690021914
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Convertexperiments ",
+            "Type": false,
+            "id": "477",
+            "NodeType": "Tracker",
+            "name": "Convertexperiments",
+            "SUID": 477,
+            "shared_name": "Convertexperiments",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Convertexperiments"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4009.5318535701426,
+            "x": 4317.4233082162245
+        },
+        "selected": false,
+        "data": {
+            "Strength": 28,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Cedexis ",
+            "Type": false,
+            "id": "452",
+            "NodeType": "Tracker",
+            "name": "Cedexis",
+            "SUID": 452,
+            "shared_name": "Cedexis",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Cedexis"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2737.741076610411,
+            "x": 3603.032674683922
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Mxpnl ",
+            "Type": false,
+            "id": "512",
+            "NodeType": "Tracker",
+            "name": "Mxpnl",
+            "SUID": 512,
+            "shared_name": "Mxpnl",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Mxpnl"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3937.9527777473613,
+            "x": 5505.317641082474
+        },
+        "selected": false,
+        "data": {
+            "Strength": 1,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Google ",
+            "Type": false,
+            "id": "637",
+            "NodeType": "Tracker",
+            "name": "Google",
+            "SUID": 637,
+            "shared_name": "Google",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Google"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3768.2436138624134,
+            "x": 4391.117751832409
+        },
+        "selected": false,
+        "data": {
+            "Strength": 25,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Nyt ",
+            "Type": false,
+            "id": "466",
+            "NodeType": "Tracker",
+            "name": "Nyt",
+            "SUID": 466,
+            "shared_name": "Nyt",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Nyt"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4403.871229308314,
+            "x": 5692.858621719073
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Clickbank ",
+            "Type": false,
+            "id": "629",
+            "NodeType": "Tracker",
+            "name": "Clickbank",
+            "SUID": 629,
+            "shared_name": "Clickbank",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Clickbank"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3169.444156894724,
+            "x": 3273.2345289281534
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Googlecode ",
+            "Type": false,
+            "id": "573",
+            "NodeType": "Tracker",
+            "name": "Googlecode",
+            "SUID": 573,
+            "shared_name": "Googlecode",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Googlecode"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4505.616258678174,
+            "x": 4918.457833533892
+        },
+        "selected": false,
+        "data": {
+            "Strength": 4,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Imgsmail ",
+            "Type": false,
+            "id": "489",
+            "NodeType": "Tracker",
+            "name": "Imgsmail",
+            "SUID": 489,
+            "shared_name": "Imgsmail",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Imgsmail"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3724.8510953577174,
+            "x": 3933.823227973116
+        },
+        "selected": false,
+        "data": {
+            "Strength": 6,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Lygo ",
+            "Type": false,
+            "id": "504",
+            "NodeType": "Tracker",
+            "name": "Lygo",
+            "SUID": 504,
+            "shared_name": "Lygo",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Lygo"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4043.240159153563,
+            "x": 6496.042431815493
+        },
+        "selected": false,
+        "data": {
+            "Strength": 19,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Co ",
+            "Type": false,
+            "id": "604",
+            "NodeType": "Tracker",
+            "name": "Co",
+            "SUID": 604,
+            "shared_name": "Co",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Co"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4478.837330704309,
+            "x": 2413.127518746972
+        },
+        "selected": false,
+        "data": {
+            "Strength": 15,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Twitter ",
+            "Type": false,
+            "id": "558",
+            "NodeType": "Tracker",
+            "name": "Twitter",
+            "SUID": 558,
+            "shared_name": "Twitter",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Twitter"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4608.557324278786,
+            "x": 4189.051476200908
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Bigstickmedia ",
+            "Type": false,
+            "id": "494",
+            "NodeType": "Tracker",
+            "name": "Bigstickmedia",
+            "SUID": 494,
+            "shared_name": "Bigstickmedia",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Bigstickmedia"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3003.306771870452,
+            "x": 6153.748305769446
+        },
+        "selected": false,
+        "data": {
+            "Strength": 15,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Technorati ",
+            "Type": false,
+            "id": "583",
+            "NodeType": "Tracker",
+            "name": "Technorati",
+            "SUID": 583,
+            "shared_name": "Technorati",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Technorati"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2700.847053562934,
+            "x": 1841.3956658707098
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Fontapis ",
+            "Type": false,
+            "id": "534",
+            "NodeType": "Tracker",
+            "name": "Fontapis",
+            "SUID": 534,
+            "shared_name": "Fontapis",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Fontapis"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2945.4104917223167,
+            "x": 3835.8239464725175
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Myspacecdn ",
+            "Type": false,
+            "id": "472",
+            "NodeType": "Tracker",
+            "name": "Myspacecdn",
+            "SUID": 472,
+            "shared_name": "Myspacecdn",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Myspacecdn"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2403.3395729436133,
+            "x": 5424.723662465718
+        },
+        "selected": false,
+        "data": {
+            "Strength": 8,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Sniperforums ",
+            "Type": false,
+            "id": "636",
+            "NodeType": "Tracker",
+            "name": "Sniperforums",
+            "SUID": 636,
+            "shared_name": "Sniperforums",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Sniperforums"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4000.6128855051056,
+            "x": 2696.4418279778765
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Neki ",
+            "Type": false,
+            "id": "552",
+            "NodeType": "Tracker",
+            "name": "Neki",
+            "SUID": 552,
+            "shared_name": "Neki",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Neki"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4601.653635197579,
+            "x": 4456.471571818918
+        },
+        "selected": false,
+        "data": {
+            "Strength": 13,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Yimg ",
+            "Type": false,
+            "id": "480",
+            "NodeType": "Tracker",
+            "name": "Yimg",
+            "SUID": 480,
+            "shared_name": "Yimg",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Yimg"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3715.52543086422,
+            "x": 2010.3166643060717
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Dmcdn ",
+            "Type": false,
+            "id": "482",
+            "NodeType": "Tracker",
+            "name": "Dmcdn",
+            "SUID": 482,
+            "shared_name": "Dmcdn",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Dmcdn"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3737.214643491713,
+            "x": 5718.6160128711745
+        },
+        "selected": false,
+        "data": {
+            "Strength": 14,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Popplet ",
+            "Type": false,
+            "id": "508",
+            "NodeType": "Tracker",
+            "name": "Popplet",
+            "SUID": 508,
+            "shared_name": "Popplet",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Popplet"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3163.529922527131,
+            "x": 4516.978204734391
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Kissmetrics ",
+            "Type": false,
+            "id": "495",
+            "NodeType": "Tracker",
+            "name": "Kissmetrics",
+            "SUID": 495,
+            "shared_name": "Kissmetrics",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Kissmetrics"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2444.8903717665094,
+            "x": 5606.791895350938
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Webtrends ",
+            "Type": false,
+            "id": "563",
+            "NodeType": "Tracker",
+            "name": "Webtrends",
+            "SUID": 563,
+            "shared_name": "Webtrends",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Webtrends"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3825.446327761912,
+            "x": 6223.373846539202
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Yjtag ",
+            "Type": false,
+            "id": "613",
+            "NodeType": "Tracker",
+            "name": "Yjtag",
+            "SUID": 613,
+            "shared_name": "Yjtag",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Yjtag"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4667.891882642982,
+            "x": 4229.893902466854
+        },
+        "selected": false,
+        "data": {
+            "Strength": 38,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Doubleclick ",
+            "Type": false,
+            "id": "503",
+            "NodeType": "Tracker",
+            "name": "Doubleclick",
+            "SUID": 503,
+            "shared_name": "Doubleclick",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Doubleclick"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3946.7980343198406,
+            "x": 2715.2262262113145
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Mail ",
+            "Type": false,
+            "id": "528",
+            "NodeType": "Tracker",
+            "name": "Mail",
+            "SUID": 528,
+            "shared_name": "Mail",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Mail"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2437.3392443599732,
+            "x": 1644.2248816658305
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Gov ",
+            "Type": false,
+            "id": "598",
+            "NodeType": "Tracker",
+            "name": "Gov",
+            "SUID": 598,
+            "shared_name": "Gov",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Gov"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2494.255037218086,
+            "x": 2770.007797299035
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "2o7 ",
+            "Type": false,
+            "id": "451",
+            "NodeType": "Tracker",
+            "name": "2o7",
+            "SUID": 451,
+            "shared_name": "2o7",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "2o7"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3690.6016328211604,
+            "x": 3591.562085340398
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Stellaservice ",
+            "Type": false,
+            "id": "509",
+            "NodeType": "Tracker",
+            "name": "Stellaservice",
+            "SUID": 509,
+            "shared_name": "Stellaservice",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Stellaservice"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3810.7122046953673,
+            "x": 2843.6200835518985
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Vevo ",
+            "Type": false,
+            "id": "522",
+            "NodeType": "Tracker",
+            "name": "Vevo",
+            "SUID": 522,
+            "shared_name": "Vevo",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Vevo"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3513.1694027059884,
+            "x": 5755.246002873557
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Mbww ",
+            "Type": false,
+            "id": "440",
+            "NodeType": "Tracker",
+            "name": "Mbww",
+            "SUID": 440,
+            "shared_name": "Mbww",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Mbww"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2239.3208369194417,
+            "x": 4663.667008254362
+        },
+        "selected": false,
+        "data": {
+            "Strength": 11,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Adobedtm ",
+            "Type": false,
+            "id": "505",
+            "NodeType": "Tracker",
+            "name": "Adobedtm",
+            "SUID": 505,
+            "shared_name": "Adobedtm",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Adobedtm"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2433.898528600379,
+            "x": 3359.2939584395244
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Adspeed ",
+            "Type": false,
+            "id": "632",
+            "NodeType": "Tracker",
+            "name": "Adspeed",
+            "SUID": 632,
+            "shared_name": "Adspeed",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Adspeed"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3443.2389417474633,
+            "x": 2056.4350571497494
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "S-msn ",
+            "Type": false,
+            "id": "594",
+            "NodeType": "Tracker",
+            "name": "S-msn",
+            "SUID": 594,
+            "shared_name": "S-msn",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "S-msn"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3008.975153227251,
+            "x": 3932.499090962619
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Cetrk ",
+            "Type": false,
+            "id": "601",
+            "NodeType": "Tracker",
+            "name": "Cetrk",
+            "SUID": 601,
+            "shared_name": "Cetrk",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Cetrk"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4562.192360686215,
+            "x": 4758.771578400425
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Dynamicyield ",
+            "Type": false,
+            "id": "442",
+            "NodeType": "Tracker",
+            "name": "Dynamicyield",
+            "SUID": 442,
+            "shared_name": "Dynamicyield",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Dynamicyield"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2955.75434578166,
+            "x": 5793.79511036875
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Bdstatic ",
+            "Type": false,
+            "id": "511",
+            "NodeType": "Tracker",
+            "name": "Bdstatic",
+            "SUID": 511,
+            "shared_name": "Bdstatic",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Bdstatic"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2172.1760710994645,
+            "x": 4032.2919385591913
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Vimeocdn ",
+            "Type": false,
+            "id": "541",
+            "NodeType": "Tracker",
+            "name": "Vimeocdn",
+            "SUID": 541,
+            "shared_name": "Vimeocdn",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Vimeocdn"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2245.493885578595,
+            "x": 2946.7810808607383
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Glam ",
+            "Type": false,
+            "id": "557",
+            "NodeType": "Tracker",
+            "name": "Glam",
+            "SUID": 557,
+            "shared_name": "Glam",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Glam"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3416.414437031462,
+            "x": 5365.75129862682
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Snobarons ",
+            "Type": false,
+            "id": "578",
+            "NodeType": "Tracker",
+            "name": "Snobarons",
+            "SUID": 578,
+            "shared_name": "Snobarons",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Snobarons"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2660.49834821744,
+            "x": 3522.7313989952654
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Nr-data ",
+            "Type": false,
+            "id": "568",
+            "NodeType": "Tracker",
+            "name": "Nr-data",
+            "SUID": 568,
+            "shared_name": "Nr-data",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Nr-data"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3934.8880260369024,
+            "x": 5376.04990986586
+        },
+        "selected": false,
+        "data": {
+            "Strength": 7,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Demdex ",
+            "Type": false,
+            "id": "468",
+            "NodeType": "Tracker",
+            "name": "Demdex",
+            "SUID": 468,
+            "shared_name": "Demdex",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Demdex"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4327.34882266233,
+            "x": 6031.622155896992
+        },
+        "selected": false,
+        "data": {
+            "Strength": 4,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Doublepimp ",
+            "Type": false,
+            "id": "622",
+            "NodeType": "Tracker",
+            "name": "Doublepimp",
+            "SUID": 622,
+            "shared_name": "Doublepimp",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Doublepimp"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2478.541176572688,
+            "x": 2158.586432888542
+        },
+        "selected": false,
+        "data": {
+            "Strength": 7,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Qq ",
+            "Type": false,
+            "id": "585",
+            "NodeType": "Tracker",
+            "name": "Qq",
+            "SUID": 585,
+            "shared_name": "Qq",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Qq"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3247.373872808382,
+            "x": 6451.543491278058
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Cedexis-radar ",
+            "Type": false,
+            "id": "449",
+            "NodeType": "Tracker",
+            "name": "Cedexis-radar",
+            "SUID": 449,
+            "shared_name": "Cedexis-radar",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Cedexis-radar"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3467.6471763442346,
+            "x": 2994.601721765848
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Moatads ",
+            "Type": false,
+            "id": "439",
+            "NodeType": "Tracker",
+            "name": "Moatads",
+            "SUID": 439,
+            "shared_name": "Moatads",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Moatads"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3504.0454295441114,
+            "x": 5937.782474287007
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Boldchat ",
+            "Type": false,
+            "id": "630",
+            "NodeType": "Tracker",
+            "name": "Boldchat",
+            "SUID": 630,
+            "shared_name": "Boldchat",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Boldchat"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2265.4560096466566,
+            "x": 4224.8290163306265
+        },
+        "selected": false,
+        "data": {
+            "Strength": 14,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Nih ",
+            "Type": false,
+            "id": "610",
+            "NodeType": "Tracker",
+            "name": "Nih",
+            "SUID": 610,
+            "shared_name": "Nih",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Nih"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3756.30148407899,
+            "x": 6201.729177443931
+        },
+        "selected": false,
+        "data": {
+            "Strength": 4,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Editmysite ",
+            "Type": false,
+            "id": "571",
+            "NodeType": "Tracker",
+            "name": "Editmysite",
+            "SUID": 571,
+            "shared_name": "Editmysite",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Editmysite"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4258.611591549709,
+            "x": 4330.237327253568
+        },
+        "selected": false,
+        "data": {
+            "Strength": 12,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Licdn ",
+            "Type": false,
+            "id": "572",
+            "NodeType": "Tracker",
+            "name": "Licdn",
+            "SUID": 572,
+            "shared_name": "Licdn",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Licdn"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2400.901131633242,
+            "x": 4460.016976372977
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Advertising ",
+            "Type": false,
+            "id": "562",
+            "NodeType": "Tracker",
+            "name": "Advertising",
+            "SUID": 562,
+            "shared_name": "Advertising",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Advertising"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2704.8703011527273,
+            "x": 3799.3984180263237
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Visualwebsiteoptimizer ",
+            "Type": false,
+            "id": "507",
+            "NodeType": "Tracker",
+            "name": "Visualwebsiteoptimizer",
+            "SUID": 507,
+            "shared_name": "Visualwebsiteoptimizer",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Visualwebsiteoptimizer"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4439.932825321607,
+            "x": 2166.971862531458
+        },
+        "selected": false,
+        "data": {
+            "Strength": 10,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Pinimg ",
+            "Type": false,
+            "id": "462",
+            "NodeType": "Tracker",
+            "name": "Pinimg",
+            "SUID": 462,
+            "shared_name": "Pinimg",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Pinimg"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2986.6214225057884,
+            "x": 6115.065189020137
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Jsadapi ",
+            "Type": false,
+            "id": "624",
+            "NodeType": "Tracker",
+            "name": "Jsadapi",
+            "SUID": 624,
+            "shared_name": "Jsadapi",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Jsadapi"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2746.0598969866674,
+            "x": 4369.684411018136
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Mediavoice ",
+            "Type": false,
+            "id": "441",
+            "NodeType": "Tracker",
+            "name": "Mediavoice",
+            "SUID": 441,
+            "shared_name": "Mediavoice",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Mediavoice"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3117.419121207241,
+            "x": 3530.138701149969
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Migch ",
+            "Type": false,
+            "id": "596",
+            "NodeType": "Tracker",
+            "name": "Migch",
+            "SUID": 596,
+            "shared_name": "Migch",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Migch"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2217.3673543083405,
+            "x": 3966.387533815646
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Gtimg ",
+            "Type": false,
+            "id": "576",
+            "NodeType": "Tracker",
+            "name": "Gtimg",
+            "SUID": 576,
+            "shared_name": "Gtimg",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Gtimg"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3609.3511888145335,
+            "x": 3316.161832606101
+        },
+        "selected": false,
+        "data": {
+            "Strength": 17,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Akamaihd ",
+            "Type": false,
+            "id": "638",
+            "NodeType": "Tracker",
+            "name": "Akamaihd",
+            "SUID": 638,
+            "shared_name": "Akamaihd",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Akamaihd"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3468.171304754136,
+            "x": 4053.6530454814656
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Dilcdn ",
+            "Type": false,
+            "id": "457",
+            "NodeType": "Tracker",
+            "name": "Dilcdn",
+            "SUID": 457,
+            "shared_name": "Dilcdn",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Dilcdn"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4759.966138007793,
+            "x": 3714.0124696700345
+        },
+        "selected": false,
+        "data": {
+            "Strength": 4,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Parsely ",
+            "Type": false,
+            "id": "579",
+            "NodeType": "Tracker",
+            "name": "Parsely",
+            "SUID": 579,
+            "shared_name": "Parsely",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Parsely"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4381.931207865083,
+            "x": 6211.381846336493
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Wikimedia ",
+            "Type": false,
+            "id": "537",
+            "NodeType": "Tracker",
+            "name": "Wikimedia",
+            "SUID": 537,
+            "shared_name": "Wikimedia",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Wikimedia"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2170.2191418602283,
+            "x": 5939.9511498657885
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Vk ",
+            "Type": false,
+            "id": "618",
+            "NodeType": "Tracker",
+            "name": "Vk",
+            "SUID": 618,
+            "shared_name": "Vk",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Vk"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4510.593722977704,
+            "x": 4088.4374598020886
+        },
+        "selected": false,
+        "data": {
+            "Strength": 4,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Statcounter ",
+            "Type": false,
+            "id": "550",
+            "NodeType": "Tracker",
+            "name": "Statcounter",
+            "SUID": 550,
+            "shared_name": "Statcounter",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Statcounter"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4334.742000902988,
+            "x": 2777.117276598373
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Marinsm ",
+            "Type": false,
+            "id": "533",
+            "NodeType": "Tracker",
+            "name": "Marinsm",
+            "SUID": 533,
+            "shared_name": "Marinsm",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Marinsm"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2389.7555119509148,
+            "x": 5420.472665053132
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Msads ",
+            "Type": false,
+            "id": "582",
+            "NodeType": "Tracker",
+            "name": "Msads",
+            "SUID": 582,
+            "shared_name": "Msads",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Msads"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2533.7903861109726,
+            "x": 3641.151678726765
+        },
+        "selected": false,
+        "data": {
+            "Strength": 2,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Sumome ",
+            "Type": false,
+            "id": "588",
+            "NodeType": "Tracker",
+            "name": "Sumome",
+            "SUID": 588,
+            "shared_name": "Sumome",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Sumome"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2629.1039868833923,
+            "x": 6254.135566570603
+        },
+        "selected": false,
+        "data": {
+            "Strength": 9,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Petmountain ",
+            "Type": false,
+            "id": "524",
+            "NodeType": "Tracker",
+            "name": "Petmountain",
+            "SUID": 524,
+            "shared_name": "Petmountain",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Petmountain"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3847.2072542557844,
+            "x": 6399.245943067634
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Adzerk ",
+            "Type": false,
+            "id": "627",
+            "NodeType": "Tracker",
+            "name": "Adzerk",
+            "SUID": 627,
+            "shared_name": "Adzerk",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Adzerk"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2927.102344304389,
+            "x": 4161.443680923598
+        },
+        "selected": false,
+        "data": {
+            "Strength": 6,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Patreon ",
+            "Type": false,
+            "id": "615",
+            "NodeType": "Tracker",
+            "name": "Patreon",
+            "SUID": 615,
+            "shared_name": "Patreon",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Patreon"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2496.682912513444,
+            "x": 2289.0839168990365
+        },
+        "selected": false,
+        "data": {
+            "Strength": 3,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Leadpages ",
+            "Type": false,
+            "id": "529",
+            "NodeType": "Tracker",
+            "name": "Leadpages",
+            "SUID": 529,
+            "shared_name": "Leadpages",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Leadpages"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 3471.8743431958965,
+            "x": 2591.122296973056
+        },
+        "selected": false,
+        "data": {
+            "Strength": 4,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Turner ",
+            "Type": false,
+            "id": "593",
+            "NodeType": "Tracker",
+            "name": "Turner",
+            "SUID": 593,
+            "shared_name": "Turner",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Turner"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4746.955708745262,
+            "x": 6392.514059489413
+        },
+        "selected": false,
+        "data": {
+            "Strength": 5,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Wix ",
+            "Type": false,
+            "id": "530",
+            "NodeType": "Tracker",
+            "name": "Wix",
+            "SUID": 530,
+            "shared_name": "Wix",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Wix"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 2843.3057968263884,
+            "x": 4120.389368812381
+        },
+        "selected": false,
+        "data": {
+            "Strength": 4,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Twimg ",
+            "Type": false,
+            "id": "640",
+            "NodeType": "Tracker",
+            "name": "Twimg",
+            "SUID": 640,
+            "shared_name": "Twimg",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Twimg"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
+    },
+    {
+        "position": {
+            "y": 4436.855060053691,
+            "x": 2318.2110147405688
+        },
+        "selected": false,
+        "data": {
+            "Strength": 9,
+            "Synonym": false,
+            "Country": false,
+            "canonicalName": "Tiqcdn ",
+            "Type": false,
+            "id": "519",
+            "NodeType": "Tracker",
+            "name": "Tiqcdn",
+            "SUID": 519,
+            "shared_name": "Tiqcdn",
+            "selected": false,
+            "cytoscape_alias_list": [
+                "Tiqcdn"
+            ],
+            "Quality": 90,
+            "Milk": false
+        }
     }
     ], 
     "edges": [
