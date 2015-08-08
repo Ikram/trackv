@@ -134,7 +134,7 @@ $(function(){
       layout: { name: 'preset', padding: layoutPadding },
       style: styleJson,
       elements: elements,
-      motionBlur: false,
+      motionBlur: true,
       selectionType: 'single',
       boxSelectionEnabled: false
     });
