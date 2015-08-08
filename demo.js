@@ -134,9 +134,9 @@ $(function(){
       layout: { name: 'preset', padding: layoutPadding },
       style: styleJson,
       elements: elements,
-      motionBlur: true,
+      motionBlur: false,
       selectionType: 'single',
-      boxSelectionEnabled: true
+      boxSelectionEnabled: false
     });
     
     cy.on('free', 'node', function( e ){
