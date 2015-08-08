@@ -135,8 +135,8 @@ $(function(){
       style: styleJson,
       elements: elements,
       motionBlur: true,
-      selectionType: 'double',
-      boxSelectionEnabled: false
+      selectionType: 'single',
+      boxSelectionEnabled: true
     });
     
     cy.on('free', 'node', function( e ){
