@@ -33,7 +33,7 @@ $(function(){
     '{{#if Country}}<p class="ac-country"><i class="fa fa-map-marker"></i> {{Country}}</p>{{/if}}',
     '<p class="ac-more"><i class="fa fa-external-link"></i> <a target="_blank" href="https://duckduckgo.com/?q={{name}}">More information</a></p>'
   ].join(''));
-
+  // '{{#if Strength}}<p class="ac-country"><i class="fa fa-pie-chart"></i> {{Strength}} </p>{{/if}}',
   // when both graph export json and style loaded, init cy
   Promise.all([ graphP, styleP ]).then(initCy);
 
@@ -135,7 +135,7 @@ $(function(){
       style: styleJson,
       elements: elements,
       motionBlur: true,
-      selectionType: 'single',
+      selectionType: 'double',
       boxSelectionEnabled: false
     });
     
@@ -294,8 +294,7 @@ $(function(){
     
   });
   
-  $('#filter').qtip({
-    position: {
+  $('#filter').qtip({ position: {
       my: 'top center',
       at: 'bottom center'
     },
