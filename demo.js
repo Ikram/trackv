@@ -20,7 +20,7 @@ $(function(){
   // also get style via ajax
   var styleP = $.ajax({
     //url: 'https://cdn.rawgit.com/maxkfranz/9210c03a591f8736b82d/raw', // wine-and-cheese-style.cycss
-     url: 'https://cdn.rawgit.com/Ikram/trackv/master/wine-and-cheese-style.cycss',
+     url: 'https://rawgit.com/Ikram/trackv/master/wine-and-cheese-style.cycss',
     //url: 'http://localhost:8080/data/cycss/wine-and-cheese.json',
     type: 'GET',
     dataType: 'text'
