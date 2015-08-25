@@ -13,7 +13,8 @@ $(function(){
     //url: 'https://cdn.rawgit.com/Ikram/trackv/master/wine-and-cheese.json',
     // Here we are going to add new data to visualize
     //url: 'https://rawgit.com/Ikram/trackv/master/wine-and-cheese.json',
-    url: 'https://rawgit.com/Ikram/trackv/master/trackers-domains.json',
+    //url: 'https://rawgit.com/Ikram/trackv/master/trackers-domains.json',
+    url: 'https://rawgit.com/Ikram/trackv/master/trackers-domains-3k.json',
     //url: 'http://localhost:8080/data/json/wine-and-cheese.json',
     type: 'GET',
     dataType: 'json'
